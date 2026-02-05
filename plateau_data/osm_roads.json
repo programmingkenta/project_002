@@ -1,0 +1,7057 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.10 2d4cfc48",
+  "osm3s": {
+    "timestamp_osm_base": "2026-02-05T08:58:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 23334685,
+      "nodes": [
+        701873039,
+        2850364788,
+        2850364787,
+        2850364786,
+        1499530625,
+        6219685051
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23443810,
+      "nodes": [
+        253890308,
+        728435688,
+        252835331,
+        7092259873
+      ],
+      "tags": {
+        "destination": "三軒茶屋",
+        "highway": "trunk",
+        "lanes": "3",
+        "maxspeed": "60",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "official_name": "一般国道246号",
+        "official_name:en": "National Highway Route 246",
+        "oneway": "yes",
+        "ref": "246",
+        "source": "Bing 2010;GSImaps/std",
+        "surface": "paved",
+        "wikidata": "Q111948597"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31610459,
+      "nodes": [
+        1014529394,
+        2253591036,
+        13414808359
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "highway": "living_street",
+        "lanes": "1",
+        "lit": "yes",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source": "bing",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31610468,
+      "nodes": [
+        1499530620,
+        12352271624,
+        9518528864
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "3",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "name:ko": "진구도리",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 31855878,
+      "nodes": [
+        356642816,
+        2253590791,
+        356643553
+      ],
+      "tags": {
+        "access:conditional": "no @ (Su 12:00-17:00)",
+        "foot": "yes",
+        "highway": "unclassified"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33041229,
+      "nodes": [
+        372515714,
+        2253593465,
+        752870671,
+        356643559,
+        356643558
+      ],
+      "tags": {
+        "access:conditional": "no @ (17:00-05:00),(PH 12:00-05:00)",
+        "foot": "yes",
+        "highway": "unclassified",
+        "motor_vehicle:conditional": "no @ (17:00-05:00; Su: 12:00-05:00)",
+        "name": "セルリアンタワー通り",
+        "name:en": "Cerulean Tower-dori Street",
+        "name:es": "Calle Cerulean Tower",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33041248,
+      "nodes": [
+        356643555,
+        12488189121
+      ],
+      "tags": {
+        "access:conditional": "no @ (PH 12:00-17:00)",
+        "foot": "yes",
+        "highway": "unclassified",
+        "maxheight": "3.15",
+        "name": "プラザ通り",
+        "name:en": "Plaza-dori Street",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source": "bing",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37865047,
+      "nodes": [
+        2253590793,
+        444301911,
+        3608631879,
+        444301913
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "sidewalk": "both",
+        "source": "Bing 2010",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37865064,
+      "nodes": [
+        444301911,
+        444302327
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 41857238,
+      "nodes": [
+        517547743,
+        1519734750,
+        1116808029,
+        1519734705,
+        517547756,
+        1519734701,
+        517547751,
+        1116808689,
+        2393500092,
+        1685221013
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "oneway": "yes",
+        "source": "Bing 2010",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 46769498,
+      "nodes": [
+        252674261,
+        3340683526,
+        597686597
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "lit": "yes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48041059,
+      "nodes": [
+        610813258,
+        12314025595,
+        9790683347,
+        2253575334,
+        610813247,
+        444301913,
+        2207533361,
+        3608631876,
+        610813240,
+        610813237
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "lanes": "2",
+        "lit": "yes",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48041060,
+      "nodes": [
+        610813238,
+        610813239,
+        610813240
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "oneway": "yes",
+        "oneway:bicycle": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48391623,
+      "nodes": [
+        1014529496,
+        3608568766,
+        614612442
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "lanes": "1",
+        "lit": "yes",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48580231,
+      "nodes": [
+        7021184995,
+        12314075775,
+        12314075769,
+        12314075768,
+        12314075767,
+        617028886,
+        12314075765,
+        12314075766
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49042353,
+      "nodes": [
+        622324947,
+        622324946
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "lit": "yes",
+        "motor_vehicle:conditional": "no @ (17:00-05:00; Su: 12:00-05:00)",
+        "name": "思い出通り",
+        "name:en": "Omoide-dori Street",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 55895867,
+      "nodes": [
+        610813247,
+        444302327,
+        1498428377,
+        1316007405,
+        3608568709,
+        6223284883,
+        3608568718,
+        701873039
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "lit": "yes",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "source": "photo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 58777418,
+      "nodes": [
+        728435613,
+        2071048412,
+        728435717,
+        2071048416,
+        2071048411,
+        2071048417,
+        2071048420,
+        2071048415,
+        728435688
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "oneway": "yes",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 58777433,
+      "nodes": [
+        728435745,
+        728435613
+      ],
+      "tags": {
+        "bridge": "yes",
+        "bridge:name": "稲荷橋",
+        "highway": "unclassified",
+        "layer": "1",
+        "name": "稲荷橋",
+        "name:en": "Inari bridge",
+        "name:es": "Puente Inari",
+        "oneway": "yes",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 58982800,
+      "nodes": [
+        762229061,
+        2253589606,
+        9963589074,
+        686510433,
+        732207707,
+        1014530026,
+        730918424,
+        5925771446,
+        730918436,
+        5925771448,
+        730918438
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "lanes": "2",
+        "name": "ウェーヴ通り",
+        "name:en": "Wave-dori Street",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source": "Bing,2007-04",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 60901075,
+      "nodes": [
+        762229249,
+        10204485205,
+        762229061
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 84154030,
+      "nodes": [
+        978984938,
+        2207504008,
+        978985140,
+        1499541038,
+        12880326231,
+        1499541054,
+        978984963,
+        1499541081,
+        1499541073,
+        1499541048,
+        6219729308,
+        614608856
+      ],
+      "tags": {
+        "highway": "unclassified"
+      }
+    },
+    {
+      "type": "way",
+      "id": 87250171,
+      "nodes": [
+        1014529332,
+        2140290579,
+        1014529802
+      ],
+      "tags": {
+        "cycleway:left": "no",
+        "highway": "unclassified",
+        "lanes": "1",
+        "name": "間坂",
+        "name:en": "Masaka St.",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 87250185,
+      "nodes": [
+        291758776,
+        13038529014,
+        10577113261,
+        5244745709
+      ],
+      "tags": {
+        "alt_name": "バスケットボールストリート",
+        "fixme": "Should this segment be highway=pedestrian, as it leads in to a pedestrian street?",
+        "highway": "unclassified",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "渋谷センター街",
+        "name:en": "Shibuya Center-gai Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 87250216,
+      "nodes": [
+        617028892,
+        2253567072,
+        1354438506,
+        3608533298,
+        622324947,
+        372516291,
+        372516209
+      ],
+      "tags": {
+        "access:conditional": "no @ (17:00-05:00),(PH 12:00-05:00)",
+        "foot": "yes",
+        "highway": "unclassified",
+        "motor_vehicle:conditional": "no @ (17:00-05:00; Su: 12:00-05:00)",
+        "name": "ウェーヴ通り",
+        "name:en": "Wave-dori Street",
+        "name:es": "Calle Wave",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116806275,
+      "nodes": [
+        597686597,
+        1316007425,
+        6124432717,
+        1316007410
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "source": "Bing, 2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 152975897,
+      "nodes": [
+        1651043436,
+        10203429885,
+        1651043432,
+        1651043431,
+        1651043430,
+        1651043427,
+        1651043424,
+        1651043422,
+        6223298621,
+        1651043425,
+        1651043428,
+        1651043429,
+        9855737960,
+        1651043435,
+        11296210763,
+        1651043438,
+        1651043439,
+        1651043434,
+        11296210761,
+        1651043436
+      ],
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "layer": "1",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 153108795,
+      "nodes": [
+        252675826,
+        6219729338,
+        13038536250,
+        1108870926,
+        598416635,
+        598417899,
+        6219729361,
+        11681901178,
+        13038536248,
+        2253591033,
+        1014529394,
+        2253591032,
+        13038536249,
+        1745599774,
+        1014529496
+      ],
+      "tags": {
+        "alt_name": "文化村通り",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "文化村通り",
+        "name:en": "Bunkamura-dori Street",
+        "parking:both": "lane",
+        "source": "NRPB of MLIT Japan",
+        "source:ja": "国土画像情報(オルソ化空中写真)国土計画局",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 178257953,
+      "nodes": [
+        372516209,
+        617028869,
+        622324945,
+        752870707,
+        1886294170,
+        6204563629,
+        8007279051,
+        1886294171
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "motor_vehicle:conditional": "no @ (17:00-05:00; Su: 12:00-05:00)",
+        "name": "プラザ通り",
+        "name:en": "Plaza-dori Street",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source": "Bing 2010;bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 202129903,
+      "nodes": [
+        252674261,
+        597686197,
+        12880326235,
+        861115631,
+        12880326236,
+        614608850,
+        614607906,
+        13414808360,
+        978984938,
+        614608852,
+        614608856,
+        353660167,
+        353659883,
+        1014529124,
+        614612844,
+        2207504009,
+        614612858,
+        6219729379,
+        353660172,
+        353660173,
+        6219729387,
+        353661237,
+        353660174,
+        597715183,
+        11932522322,
+        250652233,
+        11932522324,
+        508448391,
+        1517481739,
+        1014530043,
+        2866947417,
+        508449297,
+        9790667172,
+        6227331934
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "井ノ頭通り",
+        "name:en": "Inokashira-dori Street",
+        "oneway": "yes",
+        "sidewalk": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 203832852,
+      "nodes": [
+        2138385685,
+        2674504690,
+        7235032470,
+        7234675681,
+        264008185,
+        7234675680,
+        264008503,
+        2674504686,
+        2674504679,
+        264008186,
+        264008187,
+        2253570395,
+        264008188,
+        7234698631,
+        3174589506,
+        7234693402,
+        264008189,
+        7235032457,
+        7234693385,
+        7234693404,
+        264008190,
+        7234693405,
+        264008565,
+        7234693406,
+        6918128190,
+        7234693407,
+        7234693389,
+        7234693408,
+        7234693388,
+        264008191,
+        264008192,
+        7234693414,
+        7234693391,
+        7234693415,
+        5687991733,
+        264008193,
+        7234693419,
+        7234693392,
+        264008194,
+        7234693394,
+        7234693420,
+        1496232518,
+        7234706483,
+        264008195,
+        7234693395,
+        264008196,
+        7160312272,
+        264008197,
+        1091749073
+      ],
+      "tags": {
+        "bicycle": "no",
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "3",
+        "maxspeed": "60",
+        "motorcar": "designated",
+        "motorcycle": "designated",
+        "name": "首都高速3号渋谷線",
+        "name:en": "Route 3 Shibuya Line",
+        "name:es": "Ruta 3 Shibuya",
+        "name:fr": "Route 3 Shibuya de l'autouroute métropolitaine",
+        "name:ja": "首都高速3号渋谷線",
+        "oneway": "yes",
+        "ref": "3",
+        "source": "Bing 2010",
+        "surface": "asphalt",
+        "toll": "yes",
+        "wikidata": "Q7371446",
+        "wikipedia": "ja:首都高速3号渋谷線"
+      }
+    },
+    {
+      "type": "way",
+      "id": 207001226,
+      "nodes": [
+        1685221011,
+        2393500042,
+        517547790,
+        517547785
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "oneway": "yes",
+        "source": "Bing,2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 213526434,
+      "nodes": [
+        252683801,
+        1685220989
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "name": "宮益坂",
+        "name:en": "Miyamasu-zaka Avenue",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 213526440,
+      "nodes": [
+        1657351118,
+        10605619818,
+        2086698240,
+        252683801
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "旧大山街道",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215955234,
+      "nodes": [
+        610813258,
+        10648289048
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left;through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215955235,
+      "nodes": [
+        2021391983,
+        3155292228
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215955359,
+      "nodes": [
+        1014528882,
+        13420389792,
+        12314025592,
+        2253567940,
+        2636389341,
+        12314075757
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215956132,
+      "nodes": [
+        2253573903,
+        3608610183,
+        6223297201,
+        3608619792,
+        3608619791,
+        3608619790,
+        3608619786,
+        2253573898,
+        3608610170,
+        2253573899,
+        2253573900,
+        3608619787,
+        3608619788,
+        3608619789,
+        3608610174,
+        2253573903
+      ],
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218563507,
+      "nodes": [
+        372516209,
+        356643557
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "name": "ウェーヴ通り",
+        "name:en": "Wave-dori Street",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 254992124,
+      "nodes": [
+        1746785360,
+        1746785358,
+        1746785393,
+        5438775151,
+        1746785369,
+        13112678439,
+        1091725796,
+        1746785356,
+        1746785367,
+        927641089,
+        1746785364,
+        6334505856,
+        7160480162,
+        57529588,
+        7160480163,
+        983055286,
+        6900104085,
+        940043714,
+        1496039364,
+        7234706484,
+        1496039383,
+        7234693421,
+        1496039393,
+        1496232521,
+        7234693393,
+        7234693418,
+        57529589,
+        264008607,
+        7234693416,
+        5687991732,
+        7234693417,
+        263986991,
+        7234693387,
+        263987055,
+        7234693413,
+        5687991731,
+        7234693412,
+        263987056,
+        9800970449,
+        7234693411,
+        9740761986,
+        57529591,
+        7234693410,
+        7234693386,
+        7234693409,
+        6918128189,
+        7235032458,
+        7234693390,
+        3174589518,
+        1354438457,
+        7234675684,
+        2253570398,
+        12314025585,
+        12314025586,
+        243887382,
+        7234675682,
+        2674504681,
+        263987057,
+        2674504689,
+        2674504694,
+        57529593,
+        2674504684,
+        2674504696,
+        2674504678,
+        3854029357,
+        2138385692
+      ],
+      "tags": {
+        "bicycle": "no",
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "motorcar": "designated",
+        "motorcycle": "designated",
+        "name": "首都高速3号渋谷線",
+        "name:en": "Route 3 Shibuya Line",
+        "name:es": "Ruta 3 Shibuya",
+        "name:fr": "Route 3 Shibuya de l'autouroute métropolitaine",
+        "name:ja": "首都高速3号渋谷線",
+        "oneway": "yes",
+        "ref": "3",
+        "source": "Bing 2010",
+        "surface": "asphalt",
+        "toll": "yes",
+        "wikidata": "Q7371446",
+        "wikipedia": "ja:首都高速3号渋谷線"
+      }
+    },
+    {
+      "type": "way",
+      "id": 257223011,
+      "nodes": [
+        2628216367,
+        3558103107
+      ],
+      "tags": {
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "明治通り",
+        "name:en": "Meiji-dori Avenue",
+        "name:es": "Calle Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "ref": "305",
+        "source": "Bing,2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258432971,
+      "nodes": [
+        1499530611,
+        1014528882
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "3",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260252968,
+      "nodes": [
+        252674261,
+        2207504003,
+        2850364792,
+        12796417290
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "name:ko": "진구도리",
+        "source": "Bing 2010",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 261815523,
+      "nodes": [
+        309701920,
+        5342902381,
+        2865062730,
+        2207504005,
+        252674261
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "source": "Bing 2010",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 261815524,
+      "nodes": [
+        2636389331,
+        2021391983
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 265139656,
+      "nodes": [
+        12995472524,
+        5091218456,
+        309701929
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274499717,
+      "nodes": [
+        2990668088,
+        12314025584,
+        12314025583,
+        12314025582,
+        12314075776,
+        2636302865
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274499718,
+      "nodes": [
+        12775758455,
+        8007279067,
+        2636389333
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274499723,
+      "nodes": [
+        2636389333,
+        12314075702,
+        3936945879
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274499726,
+      "nodes": [
+        2636389340,
+        3936945880
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274499727,
+      "nodes": [
+        2636302865,
+        12314025581,
+        12314025573,
+        12314025572,
+        2636302869
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 282172100,
+      "nodes": [
+        622324944,
+        2636389331
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 310155083,
+      "nodes": [
+        3558103106,
+        1685220985,
+        1685220983,
+        1685220982
+      ],
+      "tags": {
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "明治通り",
+        "name:en": "Meiji Avenue",
+        "name:es": "Calle Meiji",
+        "name:fr": "Rue Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "ref": "305",
+        "source": "Bing 2007-04",
+        "surface": "asphalt",
+        "wikidata": "Q8011176"
+      }
+    },
+    {
+      "type": "way",
+      "id": 310155095,
+      "nodes": [
+        3155292228,
+        617028892
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 310155101,
+      "nodes": [
+        2863970602,
+        12796498220,
+        12796498219,
+        2863970601,
+        1499530611
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "3",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319498882,
+      "nodes": [
+        3558103107,
+        3558103106
+      ],
+      "tags": {
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "明治通り",
+        "name:en": "Meiji-dori Avenue",
+        "name:es": "Calle Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "ref": "305",
+        "source": "Bing,2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 350053182,
+      "nodes": [
+        2879100422,
+        1681663599,
+        10605619819,
+        196971400
+      ],
+      "tags": {
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lit": "yes",
+        "name": "明治通り",
+        "name:en": "Meiji Avenue",
+        "name:es": "Calle Meiji",
+        "name:fr": "Rue Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "ref": "305",
+        "source": "Bing 2007-04",
+        "surface": "paved",
+        "wikidata": "Q8011176"
+      }
+    },
+    {
+      "type": "way",
+      "id": 355248418,
+      "nodes": [
+        3608572626,
+        12314025564,
+        12314025563,
+        3608572624,
+        3608572622,
+        12314025565,
+        3608572628,
+        3608572626
+      ],
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 355248419,
+      "nodes": [
+        3608572641,
+        3608572644,
+        3608572645,
+        3608572646,
+        12314075763,
+        12314075762,
+        3608572642,
+        12314075761,
+        3608572640,
+        3608572638,
+        12314075758,
+        3608572625,
+        3608572633,
+        3608572632,
+        8007394259,
+        3608572641
+      ],
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 355248420,
+      "nodes": [
+        3608572644,
+        2253567072,
+        3608572648
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 355248425,
+      "nodes": [
+        3608572652,
+        3608572653,
+        12314025593,
+        12314025594,
+        3608572654,
+        3608572651,
+        3608572650,
+        6124400645,
+        3608572649,
+        3608572648,
+        3608572647,
+        10790545690,
+        3608572652
+      ],
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 355252208,
+      "nodes": [
+        3608610185,
+        6223297202,
+        3608610186,
+        3608610182,
+        3608610178,
+        3608610179,
+        5133172795,
+        3608610175,
+        3608610172,
+        3608610171,
+        3608610173,
+        3608610176,
+        3608610177,
+        3608610180,
+        3608610181,
+        3608610185
+      ],
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 355252209,
+      "nodes": [
+        3608610154,
+        3608610157,
+        3608610159,
+        3608610162,
+        3608610163,
+        3608610165,
+        3608610166,
+        3608610167,
+        3608610168,
+        3608610169,
+        9835919374,
+        3608610164,
+        3608610153,
+        12728466614,
+        3608610145,
+        6939181505,
+        3608610139,
+        6223358621,
+        3608610138,
+        3608610140,
+        3608610141,
+        3608610142,
+        3608610143,
+        3608610144,
+        3608610146,
+        3608610150,
+        1377643961,
+        3608610151,
+        3608610156,
+        3608610154
+      ],
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375676167,
+      "nodes": [
+        3790205537,
+        12314025598,
+        12314025597,
+        1014528926,
+        1499530615,
+        5091218473,
+        1499530613,
+        2863970602
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "3",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "name:ko": "진구도리",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375809353,
+      "nodes": [
+        1685220989,
+        2086698241,
+        10605619817,
+        1116808119,
+        252676409,
+        1519733425,
+        2171167535,
+        1519733465,
+        517547865,
+        2397979255
+      ],
+      "tags": {
+        "destination:backward": "道玄坂",
+        "foot": "no",
+        "highway": "tertiary",
+        "incline": "up",
+        "lit": "yes",
+        "maxspeed": "40",
+        "name": "宮益坂",
+        "name:en": "Miyamasu-zaka Street",
+        "name:ja": "宮益坂",
+        "name:ja-Hira": "みやますざか",
+        "name:ja-Latn": "Miyamasu-zaka",
+        "surface": "asphalt",
+        "wikipedia": "ja:宮益坂"
+      }
+    },
+    {
+      "type": "way",
+      "id": 376162311,
+      "nodes": [
+        6219685050,
+        12352271623,
+        1499530621
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left;through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 379351613,
+      "nodes": [
+        12488189120,
+        356643555
+      ],
+      "tags": {
+        "access:conditional": "no @ (PH 12:00-17:00)",
+        "foot": "yes",
+        "highway": "unclassified",
+        "maxheight": "3.15",
+        "name": "セルリアンタワー通り",
+        "name:en": "Cerulean Tower-dori Street",
+        "name:es": "Calle Cerulean Tower",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "source": "bing",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "way",
+      "id": 390536923,
+      "nodes": [
+        3936945880,
+        2990668088
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 390536924,
+      "nodes": [
+        3936945879,
+        622324944
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 404906395,
+      "nodes": [
+        728435752,
+        728435745
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "oneway": "yes",
+        "source": "Bing,2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 534157302,
+      "nodes": [
+        252683801,
+        2086698242,
+        12669269501,
+        12669269502,
+        1685221012,
+        2393500066,
+        158030029
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "明治通り",
+        "name:en": "Meiji-dori Avenue",
+        "name:es": "Calle Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "ref": "305",
+        "source": "Bing,2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 539543900,
+      "nodes": [
+        5220802946,
+        12314075807,
+        12314075809,
+        12314075810,
+        6369395618,
+        5220802947,
+        1377643882
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 542478931,
+      "nodes": [
+        5244745709,
+        2223657347,
+        2850364790,
+        353660488,
+        12352271655,
+        12352271628,
+        861115509,
+        2850364791,
+        5244745710,
+        1424672751,
+        614612442,
+        5244745711,
+        13038529017,
+        1745599775,
+        353659885
+      ],
+      "tags": {
+        "alt_name": "バスケットボールストリート",
+        "cycleway:left": "no",
+        "highway": "living_street",
+        "lanes": "1",
+        "lit": "yes",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "name": "渋谷センター街",
+        "name:en": "Shibuya Center-gai Street",
+        "oneway": "yes",
+        "surface": "paving_stones",
+        "wikidata": "Q5059296",
+        "wikipedia": "ja:渋谷センター街"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551944269,
+      "nodes": [
+        1498738048,
+        5329657275,
+        5329657276,
+        701873038,
+        5329657277,
+        5329657282,
+        5329657283,
+        5329657284,
+        5329657281,
+        5329657285,
+        5329657286,
+        5329657278,
+        5329657287,
+        5329657280,
+        5329657291,
+        5329657290,
+        5329657289,
+        5329657288,
+        5329657279,
+        1498738048
+      ],
+      "tags": {
+        "area": "yes",
+        "highway": "pedestrian",
+        "lit": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625292263,
+      "nodes": [
+        5220802946,
+        12314075808,
+        6948559012,
+        12852125912,
+        8204053953,
+        5904090797
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1",
+        "oneway": "no",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 680253717,
+      "nodes": [
+        5220802946,
+        12314075842,
+        6369395610,
+        12314075812
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 691240265,
+      "nodes": [
+        252674320,
+        6578301598,
+        5342902372,
+        5342902377,
+        309701920
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "source": "Bing 2010",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 731814367,
+      "nodes": [
+        614612844,
+        1499449568,
+        614613004
+      ],
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "name": "宇田川通り",
+        "name:en": "Utagawa-dori Street",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 742205311,
+      "nodes": [
+        1519695175,
+        6948559014,
+        6948559012
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 759282885,
+      "nodes": [
+        7092259873,
+        7092259872
+      ],
+      "tags": {
+        "access": "yes",
+        "highway": "trunk",
+        "lanes": "3",
+        "layer": "-1",
+        "maxspeed": "60",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "official_name": "一般国道246号",
+        "official_name:en": "National Highway Route 246",
+        "oneway": "yes",
+        "ref": "246",
+        "source": "Bing 2010;GSImaps/std",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "wikidata": "Q111948597"
+      }
+    },
+    {
+      "type": "way",
+      "id": 759282886,
+      "nodes": [
+        7092259874,
+        7092259875
+      ],
+      "tags": {
+        "access": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "-1",
+        "maxspeed": "60",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "official_name": "一般国道246号",
+        "official_name:en": "National Highway Route 246",
+        "oneway": "yes",
+        "ref": "246",
+        "source": "Bing 2010;GSImaps/std",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "wikidata": "Q111948597"
+      }
+    },
+    {
+      "type": "way",
+      "id": 759282887,
+      "nodes": [
+        7092259875,
+        1681663501,
+        196971409
+      ],
+      "tags": {
+        "access": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "official_name": "一般国道246号",
+        "official_name:en": "National Highway Route 246",
+        "oneway": "yes",
+        "ref": "246",
+        "source": "Bing 2010;GSImaps/std",
+        "surface": "asphalt",
+        "wikidata": "Q111948597"
+      }
+    },
+    {
+      "type": "way",
+      "id": 771568577,
+      "nodes": [
+        7021184995,
+        12314075770,
+        8007279043,
+        7202770282
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 852978894,
+      "nodes": [
+        196971409,
+        2879100422
+      ],
+      "tags": {
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "明治通り",
+        "name:en": "Meiji Avenue",
+        "name:es": "Calle Meiji",
+        "name:fr": "Rue Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "ref": "305",
+        "source": "Bing 2007-04",
+        "surface": "asphalt",
+        "wikidata": "Q8011176"
+      }
+    },
+    {
+      "type": "way",
+      "id": 858994295,
+      "nodes": [
+        622324946,
+        622324945,
+        356643559
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "motor_vehicle:conditional": "no @ (17:00-05:00; Su: 12:00-05:00)",
+        "name": "渋谷中央通り",
+        "name:en": "Shibuya Chuo-dori Street",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source": "bing",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 931455736,
+      "nodes": [
+        1685221014,
+        2393500071,
+        1685221013,
+        1685221011,
+        1685221009,
+        12669263800,
+        10605619820,
+        2086698243,
+        1685220989
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "明治通り",
+        "name:en": "Meiji-dori Avenue",
+        "name:es": "Calle Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "ref": "305",
+        "source": "Bing,2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 945364031,
+      "nodes": [
+        1685220989,
+        2086698239
+      ],
+      "tags": {
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "明治通り",
+        "name:en": "Meiji-dori Avenue",
+        "name:es": "Calle Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "ref": "305",
+        "source": "Bing,2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 976275941,
+      "nodes": [
+        2140290583,
+        2865062744,
+        2865062743,
+        2865062741,
+        597689460,
+        2865062740,
+        726932379,
+        11903948344,
+        2865062739,
+        12880326229,
+        12880326224,
+        1014529802,
+        2207504011,
+        2865062733,
+        2865062732,
+        2865062731,
+        5342902369,
+        309701920
+      ],
+      "tags": {
+        "contact:facebook": "koendori",
+        "contact:instagram": "shibuyakoendori",
+        "contact:website": "https://www.koen-dori.com/",
+        "contact:youtube": "UC1LK8PM_k4Fak8v4PBtcQIQ",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "公園通り",
+        "name:en": "Shibuya Pkwy.",
+        "name:fr": "Rue du Parc",
+        "name:it": "Via Parco",
+        "name:ja-Hira": "こうえんどりう",
+        "name:ja-Latn": "Kōen-dōri",
+        "official_name": "渋谷公園通り",
+        "official_name:en": "Rue du Parc de Shibuya",
+        "official_name:ja-Hira": "しぶやこうえんどりう",
+        "official_name:ja-Latn": "Shibuya Kōen dōri",
+        "source": "Bing 2010",
+        "surface": "asphalt",
+        "wikidata": "Q11561683",
+        "wikimedia_commons": "Category:Shibuya Koen-dori",
+        "wikipedia": "ja:渋谷公園通り"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1033129755,
+      "nodes": [
+        291758776,
+        1499530620
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "name:ko": "진구도리",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1033129758,
+      "nodes": [
+        9518528858,
+        9518528859,
+        12314025596,
+        9518528860,
+        9518528861,
+        9518528862,
+        9518528863,
+        12878246394,
+        9518528864
+      ],
+      "tags": {
+        "access:conditional": "no @ (06:00-22:00)",
+        "bus": "yes",
+        "cycleway:left": "no",
+        "fixme": "Bus stops and route relations in this area needs to be fixed",
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lanes": "1",
+        "lit": "yes",
+        "note": "6-22路線バスのみ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1035760830,
+      "nodes": [
+        444301910,
+        10157692127
+      ],
+      "tags": {
+        "alt_name": "道玄坂",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "sidewalk:both": "separate",
+        "source": "Bing 2010",
+        "surface": "asphalt",
+        "wikidata": "Q11641777",
+        "wikipedia": "ja:道玄坂"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1035760831,
+      "nodes": [
+        1014529496,
+        2850364789
+      ],
+      "tags": {
+        "alt_name": "文化村通り",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "文化村通り",
+        "name:en": "Bunkamura-dori Street",
+        "source": "NRPB of MLIT Japan",
+        "source:ja": "国土画像情報(オルソ化空中写真)国土計画局",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1071930092,
+      "nodes": [
+        6219685053,
+        12352271626,
+        2850364784,
+        1316007410
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "旧大山街道",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1071930093,
+      "nodes": [
+        1316007410,
+        1657351118
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "旧大山街道",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1071930096,
+      "nodes": [
+        2086698239,
+        2628216367
+      ],
+      "tags": {
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "明治通り",
+        "name:en": "Meiji-dori Avenue",
+        "name:es": "Calle Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "ref": "305",
+        "source": "Bing,2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1106270528,
+      "nodes": [
+        196971400,
+        2086698238,
+        252683801
+      ],
+      "tags": {
+        "highway": "primary",
+        "int_name": "Meiji-dori",
+        "lit": "yes",
+        "name": "明治通り",
+        "name:en": "Meiji-dori Avenue",
+        "name:es": "Calle Meiji",
+        "name:ja": "明治通り",
+        "name:ja-Hira": "めいじどおり",
+        "name:ja-Latn": "Meiji-dōri",
+        "oneway": "yes",
+        "oneway:conditional": "no @ 20:00-08:00",
+        "ref": "305",
+        "source": "Bing,2007-04",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1106270530,
+      "nodes": [
+        252675828,
+        2253572964
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "yes",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1109680532,
+      "nodes": [
+        9518528864,
+        3790205537
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "3",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "name:ko": "진구도리",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1109680533,
+      "nodes": [
+        1014529169,
+        701873039
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110356210,
+      "nodes": [
+        252675828,
+        3756997364
+      ],
+      "tags": {
+        "alt_name": "道玄坂",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "sidewalk:both": "separate",
+        "source": "Bing 2010",
+        "surface": "asphalt",
+        "wikidata": "Q11641777",
+        "wikipedia": "ja:道玄坂"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110356213,
+      "nodes": [
+        356643553,
+        610813238,
+        610813237,
+        12488189119
+      ],
+      "tags": {
+        "access:conditional": "no @ (Su 12:00-17:00)",
+        "foot": "yes",
+        "highway": "unclassified"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1112568718,
+      "nodes": [
+        3756997365,
+        252675828
+      ],
+      "tags": {
+        "alt_name": "文化村通り",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "yes",
+        "name": "文化村通り",
+        "name:en": "Bunkamura-dori Street",
+        "source": "NRPB of MLIT Japan",
+        "source:ja": "国土画像情報(オルソ化空中写真)国土計画局",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1115775091,
+      "nodes": [
+        356643558,
+        3608624652,
+        762229061
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "name": "ウェーヴ通り",
+        "name:en": "Wave-dori Street",
+        "sidewalk": "both",
+        "source": "Bing,2007-04",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1115775092,
+      "nodes": [
+        356643557,
+        12488189108,
+        356643558
+      ],
+      "tags": {
+        "access:conditional": "no @ (17:00-05:00),(PH 12:00-05:00)",
+        "foot": "yes",
+        "highway": "unclassified",
+        "name": "セルリアンタワー通り",
+        "name:en": "Cerulean Tower-dori Street",
+        "name:es": "Calle Cerulean Tower",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1115775097,
+      "nodes": [
+        2850364779,
+        8007279053,
+        8007394265
+      ],
+      "tags": {
+        "highway": "pedestrian",
+        "motor_vehicle:conditional": "no @ (17:00-05:00; Su: 12:00-05:00)",
+        "name": "渋谷中央通り",
+        "name:en": "Shibuya Chuo-dori Street",
+        "sidewalk": "both",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117318750,
+      "nodes": [
+        253890308,
+        10219242880,
+        11683584361,
+        10219242882,
+        10219242883
+      ],
+      "tags": {
+        "destination": "三軒茶屋;渋谷駅西口(20時から8時のみ)",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "maxspeed": "60",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "oneway": "yes",
+        "ref": "246",
+        "wikidata": "Q111948597"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117318756,
+      "nodes": [
+        1014530112,
+        7092259874
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "official_name": "一般国道246号",
+        "official_name:en": "National Highway Route 246",
+        "oneway": "yes",
+        "ref": "246",
+        "source": "Bing 2010;GSImaps/std",
+        "surface": "asphalt",
+        "wikidata": "Q111948597",
+        "wikipedia": "ja:国道246号"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117318761,
+      "nodes": [
+        10219242883,
+        10219242884
+      ],
+      "tags": {
+        "highway": "trunk_link",
+        "lanes": "1",
+        "layer": "-1",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "oneway": "yes",
+        "ref": "246",
+        "tunnel": "yes",
+        "wikidata": "Q111948597"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1134562280,
+      "nodes": [
+        291758776,
+        1676749591,
+        6219685053
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "旧大山街道",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1134562281,
+      "nodes": [
+        6219685052,
+        12352271625,
+        2021391989,
+        291758776
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "name:ko": "진구도리",
+        "source": "Bing 2010",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1134562282,
+      "nodes": [
+        6219685051,
+        12352271622,
+        1499530624,
+        291758776
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1134562284,
+      "nodes": [
+        9518528858,
+        12878246395
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left;through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1134562285,
+      "nodes": [
+        10577113262,
+        1014529169
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "yes",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1134562286,
+      "nodes": [
+        2850364789,
+        2253572966,
+        12782722048,
+        3756997365
+      ],
+      "tags": {
+        "alt_name": "文化村通り",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "yes",
+        "name": "文化村通り",
+        "name:en": "Bunkamura-dori Street",
+        "source": "NRPB of MLIT Japan",
+        "source:ja": "国土画像情報(オルソ化空中写真)国土計画局",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1134562287,
+      "nodes": [
+        10577113263,
+        444301910
+      ],
+      "tags": {
+        "alt_name": "道玄坂",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "sidewalk:both": "separate",
+        "source": "Bing 2010",
+        "surface": "asphalt",
+        "wikidata": "Q11641777",
+        "wikipedia": "ja:道玄坂"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1143863678,
+      "nodes": [
+        2990668088,
+        12314025591,
+        12314025590,
+        12314025587,
+        12314025588,
+        12314025589,
+        12314075711,
+        622324944
+      ],
+      "tags": {
+        "access:conditional": "no @ (06:00-22:00)",
+        "bus": "yes",
+        "foot": "no",
+        "highway": "tertiary_link",
+        "lit": "yes",
+        "note": "6-22路線バスのみ",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1143863679,
+      "nodes": [
+        309701929,
+        12314075740,
+        610813258
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1143863680,
+      "nodes": [
+        10648289048,
+        3796189793,
+        9518528858
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "name:ja": "神宮通り",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left;through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1154117302,
+      "nodes": [
+        1108870925,
+        353660491,
+        353659885
+      ],
+      "tags": {
+        "alt_name": "バスケットボールストリート",
+        "highway": "living_street",
+        "lanes": "1",
+        "lit": "yes",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "name": "渋谷センター街",
+        "name:en": "Shibuya Center-gai Street",
+        "name:ja": "渋谷センター街",
+        "oneway": "yes",
+        "surface": "paving_stones",
+        "wikidata": "Q5059296",
+        "wikipedia": "ja:渋谷センター街"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1156909226,
+      "nodes": [
+        1499530621,
+        291758776
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "oneway:conditional": "no @ (22:00-08:00)",
+        "surface": "asphalt",
+        "turn:lanes": "left;through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1256602978,
+      "nodes": [
+        444301910,
+        2253590793
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "sidewalk": "both",
+        "source": "Bing 2010",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298036686,
+      "nodes": [
+        3756997364,
+        356642815,
+        10577113263
+      ],
+      "tags": {
+        "alt_name": "道玄坂",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "sidewalk:both": "separate",
+        "source": "Bing 2010",
+        "surface": "asphalt",
+        "wikidata": "Q11641777",
+        "wikipedia": "ja:道玄坂"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298036687,
+      "nodes": [
+        2253572964,
+        10577113262
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "yes",
+        "name": "道玄坂",
+        "name:en": "Dogen-zaka Street",
+        "surface": "asphalt",
+        "turn:lanes:backward": "through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1330873765,
+      "nodes": [
+        12291256956,
+        12314075770
+      ],
+      "tags": {
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1330873767,
+      "nodes": [
+        12314075774,
+        12314075775
+      ],
+      "tags": {
+        "access": "no",
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1330873772,
+      "nodes": [
+        12314075792,
+        12314075788,
+        12314075789,
+        12314075790,
+        196971409
+      ],
+      "tags": {
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "oneway": "yes",
+        "ref": "246",
+        "wikidata": "Q111948597"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1330873774,
+      "nodes": [
+        12314075791,
+        12314075792
+      ],
+      "tags": {
+        "highway": "trunk_link",
+        "lanes": "2",
+        "layer": "-1",
+        "maxspeed": "60",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "oneway": "yes",
+        "ref": "246",
+        "tunnel": "yes",
+        "wikidata": "Q111948597"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1330873776,
+      "nodes": [
+        12314075787,
+        12314075791
+      ],
+      "tags": {
+        "highway": "trunk_link",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "玉川通り",
+        "name:en": "Tamagawa Street",
+        "name:es": "Calle Tamagawa",
+        "name:fr": "Rue Tamagawa",
+        "name:ja": "玉川通り",
+        "name:ja-Hira": "たまがわどおり",
+        "name:ja-Latn": "Tamagawa-dōri",
+        "oneway": "yes",
+        "ref": "246",
+        "wikidata": "Q111948597"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1333409427,
+      "nodes": [
+        12336491227,
+        12336491231,
+        12336491228,
+        12336491229,
+        12336491230,
+        12336491227
+      ],
+      "tags": {
+        "building": "yes",
+        "highway": "elevator",
+        "ref": "21"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1333409444,
+      "nodes": [
+        5904090797,
+        12336505513,
+        5904090798
+      ],
+      "tags": {
+        "highway": "corridor",
+        "indoor": "yes",
+        "level": "2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1349961224,
+      "nodes": [
+        12488189119,
+        356643555
+      ],
+      "tags": {
+        "access:conditional": "no @ (Su 12:00-17:00)",
+        "foot": "yes",
+        "highway": "unclassified",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1349961225,
+      "nodes": [
+        356643557,
+        12488189120
+      ],
+      "tags": {
+        "access:conditional": "no @ (PH 12:00-17:00)",
+        "foot": "yes",
+        "highway": "unclassified",
+        "maxheight": "3.15",
+        "name": "セルリアンタワー通り",
+        "name:en": "Cerulean Tower-dori Street",
+        "name:es": "Calle Cerulean Tower",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1349961226,
+      "nodes": [
+        12488189121,
+        372516209
+      ],
+      "tags": {
+        "access:conditional": "no @ (PH 12:00-17:00)",
+        "foot": "yes",
+        "highway": "unclassified",
+        "maxheight": "3.15",
+        "name": "プラザ通り",
+        "name:en": "Plaza-dori Street",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1379883567,
+      "nodes": [
+        2636302870,
+        12775758455
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1382159336,
+      "nodes": [
+        12796417290,
+        6219685052
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "name:ko": "진구도리",
+        "source": "Bing 2010",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391280800,
+      "nodes": [
+        12314075757,
+        2636389340
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391289379,
+      "nodes": [
+        12878246395,
+        6219685050
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left;through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391515606,
+      "nodes": [
+        978985140,
+        1499541032,
+        1014529114,
+        12880326219
+      ],
+      "tags": {
+        "cycleway:left": "no",
+        "highway": "unclassified",
+        "lanes": "1",
+        "name": "間坂",
+        "name:en": "Masaka St.",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1391515607,
+      "nodes": [
+        12880326219,
+        1014529332
+      ],
+      "tags": {
+        "cycleway:left": "no",
+        "highway": "unclassified",
+        "lanes": "1",
+        "name": "間坂",
+        "name:en": "Masaka St.",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "paving_stones",
+        "tunnel": "building_passage"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1414217947,
+      "nodes": [
+        617028892,
+        12995472524
+      ],
+      "tags": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "神宮通り",
+        "name:en": "Jingu-dori Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1424558856,
+      "nodes": [
+        8007394265,
+        622324946
+      ],
+      "tags": {
+        "highway": "unclassified",
+        "motor_vehicle:conditional": "no @ (17:00-05:00; Su: 12:00-05:00)",
+        "name": "渋谷中央通り",
+        "name:en": "Shibuya Chuo-dori Street",
+        "sidewalk": "both",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1462471072,
+      "nodes": [
+        13414808359,
+        353659885,
+        13038529020,
+        13038529019,
+        2637854592,
+        353659883
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "highway": "living_street",
+        "lanes": "1",
+        "lit": "yes",
+        "motor_vehicle:conditional": "no @ (15:00-05:00; Su: 12:00-05:00)",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source": "bing",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1746785358,
+      "lat": 35.6480128,
+      "lon": 139.6793099
+    },
+    {
+      "type": "node",
+      "id": 1746785360,
+      "lat": 35.6477383,
+      "lon": 139.6787882
+    },
+    {
+      "type": "node",
+      "id": 1091725796,
+      "lat": 35.6496291,
+      "lon": 139.682409
+    },
+    {
+      "type": "node",
+      "id": 1746785356,
+      "lat": 35.6500459,
+      "lon": 139.683215
+    },
+    {
+      "type": "node",
+      "id": 1746785369,
+      "lat": 35.6493372,
+      "lon": 139.6818509
+    },
+    {
+      "type": "node",
+      "id": 1746785393,
+      "lat": 35.6486951,
+      "lon": 139.6806116
+    },
+    {
+      "type": "node",
+      "id": 5438775151,
+      "lat": 35.6489771,
+      "lon": 139.6811467
+    },
+    {
+      "type": "node",
+      "id": 13112678439,
+      "lat": 35.6495858,
+      "lon": 139.6823261
+    },
+    {
+      "type": "node",
+      "id": 57529588,
+      "lat": 35.6518583,
+      "lon": 139.6867611
+    },
+    {
+      "type": "node",
+      "id": 264008196,
+      "lat": 35.652831,
+      "lon": 139.6899211
+    },
+    {
+      "type": "node",
+      "id": 264008197,
+      "lat": 35.6520954,
+      "lon": 139.6876308
+    },
+    {
+      "type": "node",
+      "id": 927641089,
+      "lat": 35.6507233,
+      "lon": 139.6845169
+    },
+    {
+      "type": "node",
+      "id": 983055286,
+      "lat": 35.6521736,
+      "lon": 139.6876235
+    },
+    {
+      "type": "node",
+      "id": 1091749073,
+      "lat": 35.6519418,
+      "lon": 139.687206
+    },
+    {
+      "type": "node",
+      "id": 1746785364,
+      "lat": 35.6511295,
+      "lon": 139.6852553
+    },
+    {
+      "type": "node",
+      "id": 1746785367,
+      "lat": 35.6504721,
+      "lon": 139.6840322
+    },
+    {
+      "type": "node",
+      "id": 6334505856,
+      "lat": 35.6514053,
+      "lon": 139.6857855
+    },
+    {
+      "type": "node",
+      "id": 6900104085,
+      "lat": 35.6528591,
+      "lon": 139.6897322
+    },
+    {
+      "type": "node",
+      "id": 7160312272,
+      "lat": 35.6525738,
+      "lon": 139.6890787
+    },
+    {
+      "type": "node",
+      "id": 7160480162,
+      "lat": 35.6516438,
+      "lon": 139.686274
+    },
+    {
+      "type": "node",
+      "id": 7160480163,
+      "lat": 35.6520067,
+      "lon": 139.6871467
+    },
+    {
+      "type": "node",
+      "id": 57529589,
+      "lat": 35.6541667,
+      "lon": 139.6934958
+    },
+    {
+      "type": "node",
+      "id": 263986991,
+      "lat": 35.6546166,
+      "lon": 139.6939608
+    },
+    {
+      "type": "node",
+      "id": 264008192,
+      "lat": 35.6545518,
+      "lon": 139.6940099
+    },
+    {
+      "type": "node",
+      "id": 264008193,
+      "lat": 35.6541161,
+      "lon": 139.693561
+    },
+    {
+      "type": "node",
+      "id": 264008194,
+      "lat": 35.6538713,
+      "lon": 139.6931767
+    },
+    {
+      "type": "node",
+      "id": 264008195,
+      "lat": 35.653432,
+      "lon": 139.6919323
+    },
+    {
+      "type": "node",
+      "id": 264008607,
+      "lat": 35.6542545,
+      "lon": 139.6936065
+    },
+    {
+      "type": "node",
+      "id": 940043714,
+      "lat": 35.6531095,
+      "lon": 139.6905686
+    },
+    {
+      "type": "node",
+      "id": 1496039364,
+      "lat": 35.6535011,
+      "lon": 139.6919023
+    },
+    {
+      "type": "node",
+      "id": 1496039383,
+      "lat": 35.6537226,
+      "lon": 139.6926424
+    },
+    {
+      "type": "node",
+      "id": 1496039393,
+      "lat": 35.6538585,
+      "lon": 139.6929794
+    },
+    {
+      "type": "node",
+      "id": 1496232518,
+      "lat": 35.6536561,
+      "lon": 139.692675
+    },
+    {
+      "type": "node",
+      "id": 1496232521,
+      "lat": 35.6539374,
+      "lon": 139.6931362
+    },
+    {
+      "type": "node",
+      "id": 5687991732,
+      "lat": 35.6544358,
+      "lon": 139.6938018
+    },
+    {
+      "type": "node",
+      "id": 5687991733,
+      "lat": 35.6542055,
+      "lon": 139.6936712
+    },
+    {
+      "type": "node",
+      "id": 7234693391,
+      "lat": 35.6543776,
+      "lon": 139.693856
+    },
+    {
+      "type": "node",
+      "id": 7234693392,
+      "lat": 35.6539572,
+      "lon": 139.6933279
+    },
+    {
+      "type": "node",
+      "id": 7234693393,
+      "lat": 35.6540134,
+      "lon": 139.6932704
+    },
+    {
+      "type": "node",
+      "id": 7234693394,
+      "lat": 35.6537948,
+      "lon": 139.6930217
+    },
+    {
+      "type": "node",
+      "id": 7234693395,
+      "lat": 35.6531903,
+      "lon": 139.6910863
+    },
+    {
+      "type": "node",
+      "id": 7234693414,
+      "lat": 35.6544674,
+      "lon": 139.6939396
+    },
+    {
+      "type": "node",
+      "id": 7234693415,
+      "lat": 35.6542877,
+      "lon": 139.6937609
+    },
+    {
+      "type": "node",
+      "id": 7234693416,
+      "lat": 35.6543397,
+      "lon": 139.6937048
+    },
+    {
+      "type": "node",
+      "id": 7234693417,
+      "lat": 35.654524,
+      "lon": 139.693882
+    },
+    {
+      "type": "node",
+      "id": 7234693418,
+      "lat": 35.6540917,
+      "lon": 139.6933938
+    },
+    {
+      "type": "node",
+      "id": 7234693419,
+      "lat": 35.6540355,
+      "lon": 139.6934498
+    },
+    {
+      "type": "node",
+      "id": 7234693420,
+      "lat": 35.6537227,
+      "lon": 139.6928524
+    },
+    {
+      "type": "node",
+      "id": 7234693421,
+      "lat": 35.6537872,
+      "lon": 139.6928169
+    },
+    {
+      "type": "node",
+      "id": 7234706483,
+      "lat": 35.6535902,
+      "lon": 139.692465
+    },
+    {
+      "type": "node",
+      "id": 7234706484,
+      "lat": 35.6536539,
+      "lon": 139.6924334
+    },
+    {
+      "type": "node",
+      "id": 57529591,
+      "lat": 35.6557391,
+      "lon": 139.6951964
+    },
+    {
+      "type": "node",
+      "id": 263987055,
+      "lat": 35.6551861,
+      "lon": 139.6944242
+    },
+    {
+      "type": "node",
+      "id": 263987056,
+      "lat": 35.6555429,
+      "lon": 139.6948289
+    },
+    {
+      "type": "node",
+      "id": 264008189,
+      "lat": 35.6559279,
+      "lon": 139.6961487
+    },
+    {
+      "type": "node",
+      "id": 264008190,
+      "lat": 35.6557544,
+      "lon": 139.6954689
+    },
+    {
+      "type": "node",
+      "id": 264008191,
+      "lat": 35.6549975,
+      "lon": 139.6943757
+    },
+    {
+      "type": "node",
+      "id": 264008565,
+      "lat": 35.6556348,
+      "lon": 139.6951695
+    },
+    {
+      "type": "node",
+      "id": 730918438,
+      "lat": 35.6565628,
+      "lon": 139.6960264
+    },
+    {
+      "type": "node",
+      "id": 5687991731,
+      "lat": 35.6553946,
+      "lon": 139.6946328
+    },
+    {
+      "type": "node",
+      "id": 5925771448,
+      "lat": 35.6570582,
+      "lon": 139.6965024
+    },
+    {
+      "type": "node",
+      "id": 6918128189,
+      "lat": 35.6559242,
+      "lon": 139.6957719
+    },
+    {
+      "type": "node",
+      "id": 6918128190,
+      "lat": 35.6554964,
+      "lon": 139.6949158
+    },
+    {
+      "type": "node",
+      "id": 7234693385,
+      "lat": 35.6558526,
+      "lon": 139.6958035
+    },
+    {
+      "type": "node",
+      "id": 7234693386,
+      "lat": 35.6558306,
+      "lon": 139.6954435
+    },
+    {
+      "type": "node",
+      "id": 7234693387,
+      "lat": 35.6550298,
+      "lon": 139.6942923
+    },
+    {
+      "type": "node",
+      "id": 7234693388,
+      "lat": 35.6551494,
+      "lon": 139.6945083
+    },
+    {
+      "type": "node",
+      "id": 7234693389,
+      "lat": 35.655342,
+      "lon": 139.694706
+    },
+    {
+      "type": "node",
+      "id": 7234693390,
+      "lat": 35.6560024,
+      "lon": 139.6961283
+    },
+    {
+      "type": "node",
+      "id": 7234693404,
+      "lat": 35.6558056,
+      "lon": 139.6956315
+    },
+    {
+      "type": "node",
+      "id": 7234693405,
+      "lat": 35.6557022,
+      "lon": 139.6953246
+    },
+    {
+      "type": "node",
+      "id": 7234693406,
+      "lat": 35.655571,
+      "lon": 139.695042
+    },
+    {
+      "type": "node",
+      "id": 7234693407,
+      "lat": 35.6554214,
+      "lon": 139.6948056
+    },
+    {
+      "type": "node",
+      "id": 7234693408,
+      "lat": 35.6552561,
+      "lon": 139.6946126
+    },
+    {
+      "type": "node",
+      "id": 7234693409,
+      "lat": 35.6558785,
+      "lon": 139.695601
+    },
+    {
+      "type": "node",
+      "id": 7234693410,
+      "lat": 35.6557808,
+      "lon": 139.6952991
+    },
+    {
+      "type": "node",
+      "id": 7234693411,
+      "lat": 35.6556491,
+      "lon": 139.6950099
+    },
+    {
+      "type": "node",
+      "id": 7234693412,
+      "lat": 35.6554815,
+      "lon": 139.6947416
+    },
+    {
+      "type": "node",
+      "id": 7234693413,
+      "lat": 35.6553029,
+      "lon": 139.6945339
+    },
+    {
+      "type": "node",
+      "id": 7235032457,
+      "lat": 35.6558924,
+      "lon": 139.6959734
+    },
+    {
+      "type": "node",
+      "id": 7235032458,
+      "lat": 35.6559655,
+      "lon": 139.6959474
+    },
+    {
+      "type": "node",
+      "id": 9740761986,
+      "lat": 35.6556918,
+      "lon": 139.6950937
+    },
+    {
+      "type": "node",
+      "id": 9800970449,
+      "lat": 35.6555949,
+      "lon": 139.6949112
+    },
+    {
+      "type": "node",
+      "id": 508449297,
+      "lat": 35.6631762,
+      "lon": 139.6959362
+    },
+    {
+      "type": "node",
+      "id": 6227331934,
+      "lat": 35.6634794,
+      "lon": 139.6955906
+    },
+    {
+      "type": "node",
+      "id": 9790667172,
+      "lat": 35.6634519,
+      "lon": 139.695622
+    },
+    {
+      "type": "node",
+      "id": 196971400,
+      "lat": 35.6593878,
+      "lon": 139.7024254
+    },
+    {
+      "type": "node",
+      "id": 196971409,
+      "lat": 35.658119,
+      "lon": 139.7030339
+    },
+    {
+      "type": "node",
+      "id": 243887382,
+      "lat": 35.6579443,
+      "lon": 139.7025647
+    },
+    {
+      "type": "node",
+      "id": 252674261,
+      "lat": 35.6604356,
+      "lon": 139.7008224
+    },
+    {
+      "type": "node",
+      "id": 252675826,
+      "lat": 35.6605282,
+      "lon": 139.6968938
+    },
+    {
+      "type": "node",
+      "id": 252675828,
+      "lat": 35.6594998,
+      "lon": 139.6994352
+    },
+    {
+      "type": "node",
+      "id": 252683801,
+      "lat": 35.6595405,
+      "lon": 139.7023676
+    },
+    {
+      "type": "node",
+      "id": 252835331,
+      "lat": 35.6578508,
+      "lon": 139.7027069
+    },
+    {
+      "type": "node",
+      "id": 264008186,
+      "lat": 35.6578784,
+      "lon": 139.7026083
+    },
+    {
+      "type": "node",
+      "id": 264008187,
+      "lat": 35.6573826,
+      "lon": 139.7011605
+    },
+    {
+      "type": "node",
+      "id": 264008188,
+      "lat": 35.6562928,
+      "lon": 139.6978168
+    },
+    {
+      "type": "node",
+      "id": 291758776,
+      "lat": 35.6594821,
+      "lon": 139.7005723
+    },
+    {
+      "type": "node",
+      "id": 309701920,
+      "lat": 35.6611203,
+      "lon": 139.7008298
+    },
+    {
+      "type": "node",
+      "id": 309701929,
+      "lat": 35.6588999,
+      "lon": 139.7001895
+    },
+    {
+      "type": "node",
+      "id": 353659883,
+      "lat": 35.66076,
+      "lon": 139.6987899
+    },
+    {
+      "type": "node",
+      "id": 353659885,
+      "lat": 35.6604072,
+      "lon": 139.6985839
+    },
+    {
+      "type": "node",
+      "id": 353660167,
+      "lat": 35.6607331,
+      "lon": 139.6989138
+    },
+    {
+      "type": "node",
+      "id": 353660172,
+      "lat": 35.6613544,
+      "lon": 139.6980128
+    },
+    {
+      "type": "node",
+      "id": 353660488,
+      "lat": 35.6597013,
+      "lon": 139.7002945
+    },
+    {
+      "type": "node",
+      "id": 353660491,
+      "lat": 35.6605605,
+      "lon": 139.6982052
+    },
+    {
+      "type": "node",
+      "id": 356642815,
+      "lat": 35.6594368,
+      "lon": 139.6992404
+    },
+    {
+      "type": "node",
+      "id": 356642816,
+      "lat": 35.6591565,
+      "lon": 139.6981983
+    },
+    {
+      "type": "node",
+      "id": 356643553,
+      "lat": 35.6587569,
+      "lon": 139.6984161
+    },
+    {
+      "type": "node",
+      "id": 356643555,
+      "lat": 35.6582206,
+      "lon": 139.6987442
+    },
+    {
+      "type": "node",
+      "id": 356643557,
+      "lat": 35.6580428,
+      "lon": 139.6988525
+    },
+    {
+      "type": "node",
+      "id": 356643558,
+      "lat": 35.6579491,
+      "lon": 139.6988536
+    },
+    {
+      "type": "node",
+      "id": 356643559,
+      "lat": 35.6575912,
+      "lon": 139.6990552
+    },
+    {
+      "type": "node",
+      "id": 372515714,
+      "lat": 35.6569702,
+      "lon": 139.6993732
+    },
+    {
+      "type": "node",
+      "id": 372516209,
+      "lat": 35.6581266,
+      "lon": 139.6989857
+    },
+    {
+      "type": "node",
+      "id": 372516291,
+      "lat": 35.658174,
+      "lon": 139.6990527
+    },
+    {
+      "type": "node",
+      "id": 444301910,
+      "lat": 35.659401,
+      "lon": 139.6991058
+    },
+    {
+      "type": "node",
+      "id": 444301911,
+      "lat": 35.6590274,
+      "lon": 139.6993579
+    },
+    {
+      "type": "node",
+      "id": 444301913,
+      "lat": 35.6588565,
+      "lon": 139.6994913
+    },
+    {
+      "type": "node",
+      "id": 444302327,
+      "lat": 35.6591315,
+      "lon": 139.6997468
+    },
+    {
+      "type": "node",
+      "id": 517547790,
+      "lat": 35.660413,
+      "lon": 139.7030313
+    },
+    {
+      "type": "node",
+      "id": 597686197,
+      "lat": 35.6604497,
+      "lon": 139.7006452
+    },
+    {
+      "type": "node",
+      "id": 597686597,
+      "lat": 35.6603818,
+      "lon": 139.7011275
+    },
+    {
+      "type": "node",
+      "id": 598416635,
+      "lat": 35.6602818,
+      "lon": 139.6975968
+    },
+    {
+      "type": "node",
+      "id": 598417899,
+      "lat": 35.6602558,
+      "lon": 139.6976649
+    },
+    {
+      "type": "node",
+      "id": 610813237,
+      "lat": 35.6584437,
+      "lon": 139.6986148
+    },
+    {
+      "type": "node",
+      "id": 610813238,
+      "lat": 35.6586788,
+      "lon": 139.6984653
+    },
+    {
+      "type": "node",
+      "id": 610813239,
+      "lat": 35.6587971,
+      "lon": 139.6988596
+    },
+    {
+      "type": "node",
+      "id": 610813240,
+      "lat": 35.6586285,
+      "lon": 139.6989513
+    },
+    {
+      "type": "node",
+      "id": 610813247,
+      "lat": 35.6589602,
+      "lon": 139.6999155
+    },
+    {
+      "type": "node",
+      "id": 610813258,
+      "lat": 35.6589726,
+      "lon": 139.7001925
+    },
+    {
+      "type": "node",
+      "id": 614607906,
+      "lat": 35.6605612,
+      "lon": 139.700011
+    },
+    {
+      "type": "node",
+      "id": 614608850,
+      "lat": 35.660533,
+      "lon": 139.7001364
+    },
+    {
+      "type": "node",
+      "id": 614608852,
+      "lat": 35.660665,
+      "lon": 139.6994367
+    },
+    {
+      "type": "node",
+      "id": 614608856,
+      "lat": 35.6607099,
+      "lon": 139.6990556
+    },
+    {
+      "type": "node",
+      "id": 614612442,
+      "lat": 35.6601554,
+      "lon": 139.699308
+    },
+    {
+      "type": "node",
+      "id": 614612844,
+      "lat": 35.6609033,
+      "lon": 139.6984183
+    },
+    {
+      "type": "node",
+      "id": 614612858,
+      "lat": 35.6611749,
+      "lon": 139.6981501
+    },
+    {
+      "type": "node",
+      "id": 614613004,
+      "lat": 35.6610264,
+      "lon": 139.6979516
+    },
+    {
+      "type": "node",
+      "id": 617028869,
+      "lat": 35.657904,
+      "lon": 139.6993642
+    },
+    {
+      "type": "node",
+      "id": 617028886,
+      "lat": 35.6573228,
+      "lon": 139.7014542
+    },
+    {
+      "type": "node",
+      "id": 617028892,
+      "lat": 35.6585427,
+      "lon": 139.700249
+    },
+    {
+      "type": "node",
+      "id": 622324944,
+      "lat": 35.6581601,
+      "lon": 139.7003787
+    },
+    {
+      "type": "node",
+      "id": 622324945,
+      "lat": 35.6577803,
+      "lon": 139.6995802
+    },
+    {
+      "type": "node",
+      "id": 622324946,
+      "lat": 35.6578416,
+      "lon": 139.6997441
+    },
+    {
+      "type": "node",
+      "id": 622324947,
+      "lat": 35.6583247,
+      "lon": 139.6994919
+    },
+    {
+      "type": "node",
+      "id": 686510433,
+      "lat": 35.6576345,
+      "lon": 139.6977686
+    },
+    {
+      "type": "node",
+      "id": 701873038,
+      "lat": 35.6596255,
+      "lon": 139.6990699
+    },
+    {
+      "type": "node",
+      "id": 701873039,
+      "lat": 35.6595598,
+      "lon": 139.6997951
+    },
+    {
+      "type": "node",
+      "id": 728435613,
+      "lat": 35.6577367,
+      "lon": 139.7030019
+    },
+    {
+      "type": "node",
+      "id": 728435688,
+      "lat": 35.6579072,
+      "lon": 139.7029035
+    },
+    {
+      "type": "node",
+      "id": 728435717,
+      "lat": 35.6577956,
+      "lon": 139.7030588
+    },
+    {
+      "type": "node",
+      "id": 728435745,
+      "lat": 35.6576435,
+      "lon": 139.7028935
+    },
+    {
+      "type": "node",
+      "id": 728435752,
+      "lat": 35.6575754,
+      "lon": 139.7028178
+    },
+    {
+      "type": "node",
+      "id": 730918424,
+      "lat": 35.6573471,
+      "lon": 139.6970399
+    },
+    {
+      "type": "node",
+      "id": 730918436,
+      "lat": 35.6570943,
+      "lon": 139.6965539
+    },
+    {
+      "type": "node",
+      "id": 732207707,
+      "lat": 35.6575261,
+      "lon": 139.6973691
+    },
+    {
+      "type": "node",
+      "id": 752870671,
+      "lat": 35.6573269,
+      "lon": 139.6991924
+    },
+    {
+      "type": "node",
+      "id": 752870707,
+      "lat": 35.6576156,
+      "lon": 139.6998666
+    },
+    {
+      "type": "node",
+      "id": 762229061,
+      "lat": 35.657794,
+      "lon": 139.6983043
+    },
+    {
+      "type": "node",
+      "id": 762229249,
+      "lat": 35.6572137,
+      "lon": 139.6985824
+    },
+    {
+      "type": "node",
+      "id": 861115509,
+      "lat": 35.6598899,
+      "lon": 139.700071
+    },
+    {
+      "type": "node",
+      "id": 861115631,
+      "lat": 35.6604926,
+      "lon": 139.7003619
+    },
+    {
+      "type": "node",
+      "id": 978984938,
+      "lat": 35.6606379,
+      "lon": 139.699655
+    },
+    {
+      "type": "node",
+      "id": 978984963,
+      "lat": 35.6608577,
+      "lon": 139.6992317
+    },
+    {
+      "type": "node",
+      "id": 978985140,
+      "lat": 35.6607051,
+      "lon": 139.699658
+    },
+    {
+      "type": "node",
+      "id": 1014528882,
+      "lat": 35.658317,
+      "lon": 139.7006258
+    },
+    {
+      "type": "node",
+      "id": 1014528926,
+      "lat": 35.6589026,
+      "lon": 139.7004021
+    },
+    {
+      "type": "node",
+      "id": 1014529114,
+      "lat": 35.6610108,
+      "lon": 139.6998166
+    },
+    {
+      "type": "node",
+      "id": 1014529124,
+      "lat": 35.6608018,
+      "lon": 139.6986887
+    },
+    {
+      "type": "node",
+      "id": 1014529169,
+      "lat": 35.6595537,
+      "lon": 139.6997166
+    },
+    {
+      "type": "node",
+      "id": 1014529332,
+      "lat": 35.6611118,
+      "lon": 139.6999115
+    },
+    {
+      "type": "node",
+      "id": 1014529394,
+      "lat": 35.6600026,
+      "lon": 139.6983251
+    },
+    {
+      "type": "node",
+      "id": 1014529496,
+      "lat": 35.6597257,
+      "lon": 139.6990694
+    },
+    {
+      "type": "node",
+      "id": 1014530026,
+      "lat": 35.6574397,
+      "lon": 139.6972027
+    },
+    {
+      "type": "node",
+      "id": 1014530112,
+      "lat": 35.6574348,
+      "lon": 139.7008462
+    },
+    {
+      "type": "node",
+      "id": 1108870925,
+      "lat": 35.6607185,
+      "lon": 139.6977527
+    },
+    {
+      "type": "node",
+      "id": 1108870926,
+      "lat": 35.6603263,
+      "lon": 139.6974764
+    },
+    {
+      "type": "node",
+      "id": 1116808119,
+      "lat": 35.6596549,
+      "lon": 139.7030779
+    },
+    {
+      "type": "node",
+      "id": 1116808689,
+      "lat": 35.6610164,
+      "lon": 139.7029958
+    },
+    {
+      "type": "node",
+      "id": 1316007405,
+      "lat": 35.6592626,
+      "lon": 139.6997365
+    },
+    {
+      "type": "node",
+      "id": 1316007410,
+      "lat": 35.6594487,
+      "lon": 139.7010885
+    },
+    {
+      "type": "node",
+      "id": 1316007425,
+      "lat": 35.6596629,
+      "lon": 139.7010847
+    },
+    {
+      "type": "node",
+      "id": 1354438457,
+      "lat": 35.6562465,
+      "lon": 139.697359
+    },
+    {
+      "type": "node",
+      "id": 1354438506,
+      "lat": 35.6585048,
+      "lon": 139.7000285
+    },
+    {
+      "type": "node",
+      "id": 1377643961,
+      "lat": 35.6593176,
+      "lon": 139.7026638
+    },
+    {
+      "type": "node",
+      "id": 1424672751,
+      "lat": 35.6601213,
+      "lon": 139.6994904
+    },
+    {
+      "type": "node",
+      "id": 1498428377,
+      "lat": 35.6591958,
+      "lon": 139.6997336
+    },
+    {
+      "type": "node",
+      "id": 1498738048,
+      "lat": 35.6594967,
+      "lon": 139.6990811
+    },
+    {
+      "type": "node",
+      "id": 1499449568,
+      "lat": 35.6609003,
+      "lon": 139.6983035
+    },
+    {
+      "type": "node",
+      "id": 1499530611,
+      "lat": 35.6584402,
+      "lon": 139.700536
+    },
+    {
+      "type": "node",
+      "id": 1499530613,
+      "lat": 35.6586853,
+      "lon": 139.7004196
+    },
+    {
+      "type": "node",
+      "id": 1499530615,
+      "lat": 35.658863,
+      "lon": 139.7003978
+    },
+    {
+      "type": "node",
+      "id": 1499530620,
+      "lat": 35.6593166,
+      "lon": 139.7005737
+    },
+    {
+      "type": "node",
+      "id": 1499530621,
+      "lat": 35.659358,
+      "lon": 139.7003347
+    },
+    {
+      "type": "node",
+      "id": 1499530624,
+      "lat": 35.659525,
+      "lon": 139.7002239
+    },
+    {
+      "type": "node",
+      "id": 1499530625,
+      "lat": 35.6595457,
+      "lon": 139.7000853
+    },
+    {
+      "type": "node",
+      "id": 1499541032,
+      "lat": 35.6607448,
+      "lon": 139.6997164
+    },
+    {
+      "type": "node",
+      "id": 1499541038,
+      "lat": 35.6607451,
+      "lon": 139.6996199
+    },
+    {
+      "type": "node",
+      "id": 1499541048,
+      "lat": 35.6607703,
+      "lon": 139.6990762
+    },
+    {
+      "type": "node",
+      "id": 1499541054,
+      "lat": 35.6607789,
+      "lon": 139.699557
+    },
+    {
+      "type": "node",
+      "id": 1499541073,
+      "lat": 35.660827,
+      "lon": 139.6991357
+    },
+    {
+      "type": "node",
+      "id": 1499541081,
+      "lat": 35.6608527,
+      "lon": 139.6991762
+    },
+    {
+      "type": "node",
+      "id": 1519695175,
+      "lat": 35.6586796,
+      "lon": 139.702315
+    },
+    {
+      "type": "node",
+      "id": 1651043422,
+      "lat": 35.6595371,
+      "lon": 139.7015976
+    },
+    {
+      "type": "node",
+      "id": 1651043424,
+      "lat": 35.6596408,
+      "lon": 139.7015859
+    },
+    {
+      "type": "node",
+      "id": 1651043425,
+      "lat": 35.659713,
+      "lon": 139.7016456
+    },
+    {
+      "type": "node",
+      "id": 1651043427,
+      "lat": 35.6598453,
+      "lon": 139.7015978
+    },
+    {
+      "type": "node",
+      "id": 1651043428,
+      "lat": 35.6598775,
+      "lon": 139.7016807
+    },
+    {
+      "type": "node",
+      "id": 1651043429,
+      "lat": 35.6600996,
+      "lon": 139.7017749
+    },
+    {
+      "type": "node",
+      "id": 1651043430,
+      "lat": 35.6601494,
+      "lon": 139.7016434
+    },
+    {
+      "type": "node",
+      "id": 1651043431,
+      "lat": 35.6602101,
+      "lon": 139.7016045
+    },
+    {
+      "type": "node",
+      "id": 1651043432,
+      "lat": 35.660308,
+      "lon": 139.7015104
+    },
+    {
+      "type": "node",
+      "id": 1651043434,
+      "lat": 35.6603637,
+      "lon": 139.7017271
+    },
+    {
+      "type": "node",
+      "id": 1651043435,
+      "lat": 35.6603685,
+      "lon": 139.7018145
+    },
+    {
+      "type": "node",
+      "id": 1651043436,
+      "lat": 35.6603788,
+      "lon": 139.7014955
+    },
+    {
+      "type": "node",
+      "id": 1651043438,
+      "lat": 35.6614133,
+      "lon": 139.7020634
+    },
+    {
+      "type": "node",
+      "id": 1651043439,
+      "lat": 35.6614214,
+      "lon": 139.7020164
+    },
+    {
+      "type": "node",
+      "id": 1657351118,
+      "lat": 35.6594524,
+      "lon": 139.7014397
+    },
+    {
+      "type": "node",
+      "id": 1676749591,
+      "lat": 35.6594668,
+      "lon": 139.7007678
+    },
+    {
+      "type": "node",
+      "id": 1681663501,
+      "lat": 35.6580876,
+      "lon": 139.7028416
+    },
+    {
+      "type": "node",
+      "id": 1681663599,
+      "lat": 35.658855,
+      "lon": 139.7026696
+    },
+    {
+      "type": "node",
+      "id": 1685220983,
+      "lat": 35.6582602,
+      "lon": 139.7030773
+    },
+    {
+      "type": "node",
+      "id": 1685220985,
+      "lat": 35.6585504,
+      "lon": 139.7029389
+    },
+    {
+      "type": "node",
+      "id": 1685220989,
+      "lat": 35.6595579,
+      "lon": 139.7024715
+    },
+    {
+      "type": "node",
+      "id": 1685221009,
+      "lat": 35.6598834,
+      "lon": 139.702398
+    },
+    {
+      "type": "node",
+      "id": 1685221011,
+      "lat": 35.660395,
+      "lon": 139.7023641
+    },
+    {
+      "type": "node",
+      "id": 1685221012,
+      "lat": 35.6607489,
+      "lon": 139.7022411
+    },
+    {
+      "type": "node",
+      "id": 1685221013,
+      "lat": 35.6610173,
+      "lon": 139.7023401
+    },
+    {
+      "type": "node",
+      "id": 1745599774,
+      "lat": 35.6599049,
+      "lon": 139.698581
+    },
+    {
+      "type": "node",
+      "id": 1745599775,
+      "lat": 35.660327,
+      "lon": 139.6988143
+    },
+    {
+      "type": "node",
+      "id": 1886294170,
+      "lat": 35.6575558,
+      "lon": 139.6998969
+    },
+    {
+      "type": "node",
+      "id": 1886294171,
+      "lat": 35.6571822,
+      "lon": 139.7000922
+    },
+    {
+      "type": "node",
+      "id": 2021391983,
+      "lat": 35.6583052,
+      "lon": 139.7003149
+    },
+    {
+      "type": "node",
+      "id": 2021391989,
+      "lat": 35.6596585,
+      "lon": 139.7006329
+    },
+    {
+      "type": "node",
+      "id": 2071048411,
+      "lat": 35.6578405,
+      "lon": 139.7030481
+    },
+    {
+      "type": "node",
+      "id": 2071048412,
+      "lat": 35.6577736,
+      "lon": 139.7030435
+    },
+    {
+      "type": "node",
+      "id": 2071048415,
+      "lat": 35.6579016,
+      "lon": 139.7029506
+    },
+    {
+      "type": "node",
+      "id": 2071048416,
+      "lat": 35.6578175,
+      "lon": 139.7030587
+    },
+    {
+      "type": "node",
+      "id": 2071048417,
+      "lat": 35.6578607,
+      "lon": 139.7030276
+    },
+    {
+      "type": "node",
+      "id": 2071048420,
+      "lat": 35.6578853,
+      "lon": 139.7029933
+    },
+    {
+      "type": "node",
+      "id": 2086698238,
+      "lat": 35.6594318,
+      "lon": 139.7024088
+    },
+    {
+      "type": "node",
+      "id": 2086698239,
+      "lat": 35.6594434,
+      "lon": 139.7025157
+    },
+    {
+      "type": "node",
+      "id": 2086698240,
+      "lat": 35.6595118,
+      "lon": 139.7021512
+    },
+    {
+      "type": "node",
+      "id": 2086698241,
+      "lat": 35.6595829,
+      "lon": 139.7026336
+    },
+    {
+      "type": "node",
+      "id": 2086698242,
+      "lat": 35.659664,
+      "lon": 139.7023379
+    },
+    {
+      "type": "node",
+      "id": 2086698243,
+      "lat": 35.6596782,
+      "lon": 139.7024344
+    },
+    {
+      "type": "node",
+      "id": 2140290579,
+      "lat": 35.661351,
+      "lon": 139.7001778
+    },
+    {
+      "type": "node",
+      "id": 2207504003,
+      "lat": 35.6603207,
+      "lon": 139.7008153
+    },
+    {
+      "type": "node",
+      "id": 2207504005,
+      "lat": 35.6605957,
+      "lon": 139.7008304
+    },
+    {
+      "type": "node",
+      "id": 2207504008,
+      "lat": 35.6606813,
+      "lon": 139.6996574
+    },
+    {
+      "type": "node",
+      "id": 2207504009,
+      "lat": 35.6609745,
+      "lon": 139.6983375
+    },
+    {
+      "type": "node",
+      "id": 2207504011,
+      "lat": 35.6611897,
+      "lon": 139.7005157
+    },
+    {
+      "type": "node",
+      "id": 2207533361,
+      "lat": 35.658763,
+      "lon": 139.6992183
+    },
+    {
+      "type": "node",
+      "id": 2223657347,
+      "lat": 35.6596395,
+      "lon": 139.7003258
+    },
+    {
+      "type": "node",
+      "id": 2253567072,
+      "lat": 35.6585231,
+      "lon": 139.7001019
+    },
+    {
+      "type": "node",
+      "id": 2253567940,
+      "lat": 35.6582499,
+      "lon": 139.7006432
+    },
+    {
+      "type": "node",
+      "id": 2253570395,
+      "lat": 35.656872,
+      "lon": 139.6996126
+    },
+    {
+      "type": "node",
+      "id": 2253570398,
+      "lat": 35.6569423,
+      "lon": 139.6995786
+    },
+    {
+      "type": "node",
+      "id": 2253572964,
+      "lat": 35.6595266,
+      "lon": 139.6995209
+    },
+    {
+      "type": "node",
+      "id": 2253572966,
+      "lat": 35.6596047,
+      "lon": 139.6993497
+    },
+    {
+      "type": "node",
+      "id": 2253573898,
+      "lat": 35.6595527,
+      "lon": 139.7019402
+    },
+    {
+      "type": "node",
+      "id": 2253573899,
+      "lat": 35.6595823,
+      "lon": 139.7022188
+    },
+    {
+      "type": "node",
+      "id": 2253573900,
+      "lat": 35.6595968,
+      "lon": 139.7022515
+    },
+    {
+      "type": "node",
+      "id": 2253573903,
+      "lat": 35.6598833,
+      "lon": 139.7022519
+    },
+    {
+      "type": "node",
+      "id": 2253575334,
+      "lat": 35.6589833,
+      "lon": 139.7000588
+    },
+    {
+      "type": "node",
+      "id": 2253589606,
+      "lat": 35.6577711,
+      "lon": 139.6982273
+    },
+    {
+      "type": "node",
+      "id": 2253590791,
+      "lat": 35.6590812,
+      "lon": 139.6982345
+    },
+    {
+      "type": "node",
+      "id": 2253590793,
+      "lat": 35.6593251,
+      "lon": 139.6991383
+    },
+    {
+      "type": "node",
+      "id": 2253591032,
+      "lat": 35.6599728,
+      "lon": 139.6984033
+    },
+    {
+      "type": "node",
+      "id": 2253591033,
+      "lat": 35.660041,
+      "lon": 139.6982252
+    },
+    {
+      "type": "node",
+      "id": 2253591036,
+      "lat": 35.6600657,
+      "lon": 139.6983654
+    },
+    {
+      "type": "node",
+      "id": 2253593465,
+      "lat": 35.6570505,
+      "lon": 139.6993342
+    },
+    {
+      "type": "node",
+      "id": 2393500042,
+      "lat": 35.6603969,
+      "lon": 139.7024614
+    },
+    {
+      "type": "node",
+      "id": 2393500092,
+      "lat": 35.661018,
+      "lon": 139.7024345
+    },
+    {
+      "type": "node",
+      "id": 2628216367,
+      "lat": 35.6594003,
+      "lon": 139.7025339
+    },
+    {
+      "type": "node",
+      "id": 2636302865,
+      "lat": 35.6579567,
+      "lon": 139.7005885
+    },
+    {
+      "type": "node",
+      "id": 2636302869,
+      "lat": 35.6575872,
+      "lon": 139.7007619
+    },
+    {
+      "type": "node",
+      "id": 2636302870,
+      "lat": 35.6575606,
+      "lon": 139.7006711
+    },
+    {
+      "type": "node",
+      "id": 2636389331,
+      "lat": 35.6582038,
+      "lon": 139.7003569
+    },
+    {
+      "type": "node",
+      "id": 2636389333,
+      "lat": 35.657979,
+      "lon": 139.7004394
+    },
+    {
+      "type": "node",
+      "id": 2636389340,
+      "lat": 35.6581768,
+      "lon": 139.7006322
+    },
+    {
+      "type": "node",
+      "id": 2636389341,
+      "lat": 35.6582304,
+      "lon": 139.7006422
+    },
+    {
+      "type": "node",
+      "id": 2637854592,
+      "lat": 35.6607197,
+      "lon": 139.6987663
+    },
+    {
+      "type": "node",
+      "id": 2674504679,
+      "lat": 35.6579383,
+      "lon": 139.7027984
+    },
+    {
+      "type": "node",
+      "id": 2674504681,
+      "lat": 35.6580472,
+      "lon": 139.7029263
+    },
+    {
+      "type": "node",
+      "id": 2674504686,
+      "lat": 35.657982,
+      "lon": 139.7029725
+    },
+    {
+      "type": "node",
+      "id": 2850364779,
+      "lat": 35.6580452,
+      "lon": 139.700332
+    },
+    {
+      "type": "node",
+      "id": 2850364784,
+      "lat": 35.6594548,
+      "lon": 139.7009441
+    },
+    {
+      "type": "node",
+      "id": 2850364786,
+      "lat": 35.6595532,
+      "lon": 139.7000182
+    },
+    {
+      "type": "node",
+      "id": 2850364787,
+      "lat": 35.6595585,
+      "lon": 139.6999526
+    },
+    {
+      "type": "node",
+      "id": 2850364788,
+      "lat": 35.6595602,
+      "lon": 139.6998849
+    },
+    {
+      "type": "node",
+      "id": 2850364789,
+      "lat": 35.6596319,
+      "lon": 139.6993087
+    },
+    {
+      "type": "node",
+      "id": 2850364790,
+      "lat": 35.6596866,
+      "lon": 139.7003068
+    },
+    {
+      "type": "node",
+      "id": 2850364791,
+      "lat": 35.6600454,
+      "lon": 139.6998645
+    },
+    {
+      "type": "node",
+      "id": 2850364792,
+      "lat": 35.6601677,
+      "lon": 139.700778
+    },
+    {
+      "type": "node",
+      "id": 2863970601,
+      "lat": 35.6584748,
+      "lon": 139.7005091
+    },
+    {
+      "type": "node",
+      "id": 2863970602,
+      "lat": 35.6586269,
+      "lon": 139.7004354
+    },
+    {
+      "type": "node",
+      "id": 2865062730,
+      "lat": 35.6609769,
+      "lon": 139.7008327
+    },
+    {
+      "type": "node",
+      "id": 2865062731,
+      "lat": 35.6611399,
+      "lon": 139.7006222
+    },
+    {
+      "type": "node",
+      "id": 2865062732,
+      "lat": 35.6611534,
+      "lon": 139.7005864
+    },
+    {
+      "type": "node",
+      "id": 2865062733,
+      "lat": 35.6611698,
+      "lon": 139.7005497
+    },
+    {
+      "type": "node",
+      "id": 2879100422,
+      "lat": 35.6583349,
+      "lon": 139.7029219
+    },
+    {
+      "type": "node",
+      "id": 2990668088,
+      "lat": 35.6581044,
+      "lon": 139.7006078
+    },
+    {
+      "type": "node",
+      "id": 3155292228,
+      "lat": 35.6584629,
+      "lon": 139.7002652
+    },
+    {
+      "type": "node",
+      "id": 3174589506,
+      "lat": 35.6561884,
+      "lon": 139.6974549
+    },
+    {
+      "type": "node",
+      "id": 3174589518,
+      "lat": 35.6561727,
+      "lon": 139.6969796
+    },
+    {
+      "type": "node",
+      "id": 3340683526,
+      "lat": 35.6604124,
+      "lon": 139.7009291
+    },
+    {
+      "type": "node",
+      "id": 3558103106,
+      "lat": 35.6586581,
+      "lon": 139.7028874
+    },
+    {
+      "type": "node",
+      "id": 3558103107,
+      "lat": 35.6588163,
+      "lon": 139.7028135
+    },
+    {
+      "type": "node",
+      "id": 3608533298,
+      "lat": 35.6584289,
+      "lon": 139.6998049
+    },
+    {
+      "type": "node",
+      "id": 3608568709,
+      "lat": 35.6594172,
+      "lon": 139.6997792
+    },
+    {
+      "type": "node",
+      "id": 3608568718,
+      "lat": 35.6594778,
+      "lon": 139.699796
+    },
+    {
+      "type": "node",
+      "id": 3608568766,
+      "lat": 35.6597823,
+      "lon": 139.6991034
+    },
+    {
+      "type": "node",
+      "id": 3608572622,
+      "lat": 35.6576093,
+      "lon": 139.7005528
+    },
+    {
+      "type": "node",
+      "id": 3608572624,
+      "lat": 35.6576117,
+      "lon": 139.7005903
+    },
+    {
+      "type": "node",
+      "id": 3608572625,
+      "lat": 35.6580782,
+      "lon": 139.7003472
+    },
+    {
+      "type": "node",
+      "id": 3608572626,
+      "lat": 35.6579485,
+      "lon": 139.7004101
+    },
+    {
+      "type": "node",
+      "id": 3608572628,
+      "lat": 35.657941,
+      "lon": 139.7003883
+    },
+    {
+      "type": "node",
+      "id": 3608572632,
+      "lat": 35.6580625,
+      "lon": 139.7003023
+    },
+    {
+      "type": "node",
+      "id": 3608572633,
+      "lat": 35.658069,
+      "lon": 139.7003207
+    },
+    {
+      "type": "node",
+      "id": 3608572638,
+      "lat": 35.6582973,
+      "lon": 139.7002299
+    },
+    {
+      "type": "node",
+      "id": 3608572640,
+      "lat": 35.6583654,
+      "lon": 139.700219
+    },
+    {
+      "type": "node",
+      "id": 3608572641,
+      "lat": 35.6584863,
+      "lon": 139.7000485
+    },
+    {
+      "type": "node",
+      "id": 3608572642,
+      "lat": 35.6584961,
+      "lon": 139.7001981
+    },
+    {
+      "type": "node",
+      "id": 3608572644,
+      "lat": 35.6585004,
+      "lon": 139.7001028
+    },
+    {
+      "type": "node",
+      "id": 3608572645,
+      "lat": 35.6585015,
+      "lon": 139.7001217
+    },
+    {
+      "type": "node",
+      "id": 3608572646,
+      "lat": 35.6585082,
+      "lon": 139.7001828
+    },
+    {
+      "type": "node",
+      "id": 3608572647,
+      "lat": 35.6585428,
+      "lon": 139.7000655
+    },
+    {
+      "type": "node",
+      "id": 3608572648,
+      "lat": 35.6585472,
+      "lon": 139.7001016
+    },
+    {
+      "type": "node",
+      "id": 3608572649,
+      "lat": 35.6585552,
+      "lon": 139.7001668
+    },
+    {
+      "type": "node",
+      "id": 3608572650,
+      "lat": 35.658873,
+      "lon": 139.7001307
+    },
+    {
+      "type": "node",
+      "id": 3608572651,
+      "lat": 35.6589214,
+      "lon": 139.7001293
+    },
+    {
+      "type": "node",
+      "id": 3608572652,
+      "lat": 35.6589395,
+      "lon": 139.7000004
+    },
+    {
+      "type": "node",
+      "id": 3608572653,
+      "lat": 35.6589491,
+      "lon": 139.7000524
+    },
+    {
+      "type": "node",
+      "id": 3608572654,
+      "lat": 35.6589519,
+      "lon": 139.7001305
+    },
+    {
+      "type": "node",
+      "id": 3608610138,
+      "lat": 35.658586,
+      "lon": 139.7030408
+    },
+    {
+      "type": "node",
+      "id": 3608610139,
+      "lat": 35.6585914,
+      "lon": 139.7030909
+    },
+    {
+      "type": "node",
+      "id": 3608610140,
+      "lat": 35.6585937,
+      "lon": 139.7030135
+    },
+    {
+      "type": "node",
+      "id": 3608610141,
+      "lat": 35.6586109,
+      "lon": 139.7029912
+    },
+    {
+      "type": "node",
+      "id": 3608610142,
+      "lat": 35.658629,
+      "lon": 139.7029834
+    },
+    {
+      "type": "node",
+      "id": 3608610143,
+      "lat": 35.6586715,
+      "lon": 139.7030007
+    },
+    {
+      "type": "node",
+      "id": 3608610144,
+      "lat": 35.6589517,
+      "lon": 139.7028653
+    },
+    {
+      "type": "node",
+      "id": 3608610145,
+      "lat": 35.6590119,
+      "lon": 139.7028837
+    },
+    {
+      "type": "node",
+      "id": 3608610146,
+      "lat": 35.6590509,
+      "lon": 139.7027762
+    },
+    {
+      "type": "node",
+      "id": 3608610150,
+      "lat": 35.6593137,
+      "lon": 139.7026519
+    },
+    {
+      "type": "node",
+      "id": 3608610151,
+      "lat": 35.6593215,
+      "lon": 139.7026756
+    },
+    {
+      "type": "node",
+      "id": 3608610153,
+      "lat": 35.6594085,
+      "lon": 139.7026909
+    },
+    {
+      "type": "node",
+      "id": 3608610154,
+      "lat": 35.6594123,
+      "lon": 139.7026027
+    },
+    {
+      "type": "node",
+      "id": 3608610156,
+      "lat": 35.6594201,
+      "lon": 139.7026263
+    },
+    {
+      "type": "node",
+      "id": 3608610157,
+      "lat": 35.6594322,
+      "lon": 139.7025948
+    },
+    {
+      "type": "node",
+      "id": 3608610159,
+      "lat": 35.6594517,
+      "lon": 139.7025928
+    },
+    {
+      "type": "node",
+      "id": 3608610162,
+      "lat": 35.659469,
+      "lon": 139.702596
+    },
+    {
+      "type": "node",
+      "id": 3608610163,
+      "lat": 35.6594914,
+      "lon": 139.7026062
+    },
+    {
+      "type": "node",
+      "id": 3608610164,
+      "lat": 35.6595048,
+      "lon": 139.7027595
+    },
+    {
+      "type": "node",
+      "id": 3608610165,
+      "lat": 35.659508,
+      "lon": 139.702622
+    },
+    {
+      "type": "node",
+      "id": 3608610166,
+      "lat": 35.6595215,
+      "lon": 139.7026405
+    },
+    {
+      "type": "node",
+      "id": 3608610167,
+      "lat": 35.6595241,
+      "lon": 139.7026481
+    },
+    {
+      "type": "node",
+      "id": 3608610168,
+      "lat": 35.659532,
+      "lon": 139.7026704
+    },
+    {
+      "type": "node",
+      "id": 3608610169,
+      "lat": 35.6595445,
+      "lon": 139.702752
+    },
+    {
+      "type": "node",
+      "id": 3608610170,
+      "lat": 35.6595725,
+      "lon": 139.7021474
+    },
+    {
+      "type": "node",
+      "id": 3608610171,
+      "lat": 35.6596306,
+      "lon": 139.7025832
+    },
+    {
+      "type": "node",
+      "id": 3608610172,
+      "lat": 35.6596362,
+      "lon": 139.7026212
+    },
+    {
+      "type": "node",
+      "id": 3608610173,
+      "lat": 35.6596376,
+      "lon": 139.7025446
+    },
+    {
+      "type": "node",
+      "id": 3608610174,
+      "lat": 35.6596572,
+      "lon": 139.7022891
+    },
+    {
+      "type": "node",
+      "id": 3608610175,
+      "lat": 35.6596524,
+      "lon": 139.7027306
+    },
+    {
+      "type": "node",
+      "id": 3608610176,
+      "lat": 35.6596607,
+      "lon": 139.7025021
+    },
+    {
+      "type": "node",
+      "id": 3608610177,
+      "lat": 35.6596859,
+      "lon": 139.702489
+    },
+    {
+      "type": "node",
+      "id": 3608610178,
+      "lat": 35.6596928,
+      "lon": 139.7027147
+    },
+    {
+      "type": "node",
+      "id": 3608610179,
+      "lat": 35.6596941,
+      "lon": 139.7027247
+    },
+    {
+      "type": "node",
+      "id": 3608610180,
+      "lat": 35.6597016,
+      "lon": 139.7024808
+    },
+    {
+      "type": "node",
+      "id": 3608610181,
+      "lat": 35.6597919,
+      "lon": 139.7024611
+    },
+    {
+      "type": "node",
+      "id": 3608610182,
+      "lat": 35.6598512,
+      "lon": 139.7025114
+    },
+    {
+      "type": "node",
+      "id": 3608610183,
+      "lat": 35.6598823,
+      "lon": 139.702226
+    },
+    {
+      "type": "node",
+      "id": 3608610185,
+      "lat": 35.6599027,
+      "lon": 139.702454
+    },
+    {
+      "type": "node",
+      "id": 3608610186,
+      "lat": 35.6599039,
+      "lon": 139.7025102
+    },
+    {
+      "type": "node",
+      "id": 3608619786,
+      "lat": 35.6595707,
+      "lon": 139.7019556
+    },
+    {
+      "type": "node",
+      "id": 3608619787,
+      "lat": 35.659614,
+      "lon": 139.7022731
+    },
+    {
+      "type": "node",
+      "id": 3608619788,
+      "lat": 35.6596284,
+      "lon": 139.7022834
+    },
+    {
+      "type": "node",
+      "id": 3608619789,
+      "lat": 35.659644,
+      "lon": 139.7022885
+    },
+    {
+      "type": "node",
+      "id": 3608619790,
+      "lat": 35.6598093,
+      "lon": 139.7021584
+    },
+    {
+      "type": "node",
+      "id": 3608619791,
+      "lat": 35.6598493,
+      "lon": 139.7021785
+    },
+    {
+      "type": "node",
+      "id": 3608619792,
+      "lat": 35.659881,
+      "lon": 139.7021903
+    },
+    {
+      "type": "node",
+      "id": 3608624652,
+      "lat": 35.6578528,
+      "lon": 139.6985126
+    },
+    {
+      "type": "node",
+      "id": 3608631876,
+      "lat": 35.6587565,
+      "lon": 139.6992055
+    },
+    {
+      "type": "node",
+      "id": 3608631879,
+      "lat": 35.6589988,
+      "lon": 139.6993805
+    },
+    {
+      "type": "node",
+      "id": 3756997364,
+      "lat": 35.6594736,
+      "lon": 139.6993568
+    },
+    {
+      "type": "node",
+      "id": 3756997365,
+      "lat": 35.6595477,
+      "lon": 139.6994074
+    },
+    {
+      "type": "node",
+      "id": 3790205537,
+      "lat": 35.6591193,
+      "lon": 139.7005047
+    },
+    {
+      "type": "node",
+      "id": 3796189793,
+      "lat": 35.6592016,
+      "lon": 139.7002606
+    },
+    {
+      "type": "node",
+      "id": 3936945879,
+      "lat": 35.6580609,
+      "lon": 139.7004002
+    },
+    {
+      "type": "node",
+      "id": 3936945880,
+      "lat": 35.6581267,
+      "lon": 139.7006154
+    },
+    {
+      "type": "node",
+      "id": 5091218456,
+      "lat": 35.6587398,
+      "lon": 139.7002141
+    },
+    {
+      "type": "node",
+      "id": 5091218473,
+      "lat": 35.6587609,
+      "lon": 139.7004093
+    },
+    {
+      "type": "node",
+      "id": 5133172795,
+      "lat": 35.6596761,
+      "lon": 139.7027272
+    },
+    {
+      "type": "node",
+      "id": 5220802946,
+      "lat": 35.6581799,
+      "lon": 139.702772
+    },
+    {
+      "type": "node",
+      "id": 5244745709,
+      "lat": 35.6596029,
+      "lon": 139.7003382
+    },
+    {
+      "type": "node",
+      "id": 5244745710,
+      "lat": 35.6600667,
+      "lon": 139.699783
+    },
+    {
+      "type": "node",
+      "id": 5244745711,
+      "lat": 35.6601864,
+      "lon": 139.6992185
+    },
+    {
+      "type": "node",
+      "id": 5329657275,
+      "lat": 35.6595255,
+      "lon": 139.6991917
+    },
+    {
+      "type": "node",
+      "id": 5329657276,
+      "lat": 35.6595784,
+      "lon": 139.699193
+    },
+    {
+      "type": "node",
+      "id": 5329657277,
+      "lat": 35.6596055,
+      "lon": 139.6990602
+    },
+    {
+      "type": "node",
+      "id": 5329657278,
+      "lat": 35.6595551,
+      "lon": 139.6991077
+    },
+    {
+      "type": "node",
+      "id": 5329657279,
+      "lat": 35.6595081,
+      "lon": 139.6990749
+    },
+    {
+      "type": "node",
+      "id": 5329657280,
+      "lat": 35.6595399,
+      "lon": 139.6991046
+    },
+    {
+      "type": "node",
+      "id": 5329657281,
+      "lat": 35.6595817,
+      "lon": 139.6990974
+    },
+    {
+      "type": "node",
+      "id": 5329657282,
+      "lat": 35.6596011,
+      "lon": 139.6990712
+    },
+    {
+      "type": "node",
+      "id": 5329657283,
+      "lat": 35.6595967,
+      "lon": 139.6990795
+    },
+    {
+      "type": "node",
+      "id": 5329657284,
+      "lat": 35.6595914,
+      "lon": 139.6990879
+    },
+    {
+      "type": "node",
+      "id": 5329657285,
+      "lat": 35.6595726,
+      "lon": 139.6991028
+    },
+    {
+      "type": "node",
+      "id": 5329657286,
+      "lat": 35.6595621,
+      "lon": 139.6991072
+    },
+    {
+      "type": "node",
+      "id": 5329657287,
+      "lat": 35.6595473,
+      "lon": 139.6991067
+    },
+    {
+      "type": "node",
+      "id": 5329657288,
+      "lat": 35.6595117,
+      "lon": 139.6990809
+    },
+    {
+      "type": "node",
+      "id": 5329657289,
+      "lat": 35.6595159,
+      "lon": 139.6990872
+    },
+    {
+      "type": "node",
+      "id": 5329657290,
+      "lat": 35.6595246,
+      "lon": 139.6990964
+    },
+    {
+      "type": "node",
+      "id": 5329657291,
+      "lat": 35.6595325,
+      "lon": 139.6991015
+    },
+    {
+      "type": "node",
+      "id": 5342902369,
+      "lat": 35.6611277,
+      "lon": 139.7006618
+    },
+    {
+      "type": "node",
+      "id": 5342902372,
+      "lat": 35.6612941,
+      "lon": 139.700829
+    },
+    {
+      "type": "node",
+      "id": 5342902377,
+      "lat": 35.6611857,
+      "lon": 139.7008299
+    },
+    {
+      "type": "node",
+      "id": 5342902381,
+      "lat": 35.6610672,
+      "lon": 139.7008302
+    },
+    {
+      "type": "node",
+      "id": 5904090797,
+      "lat": 35.6576739,
+      "lon": 139.7024698
+    },
+    {
+      "type": "node",
+      "id": 5904090798,
+      "lat": 35.6574923,
+      "lon": 139.7026646
+    },
+    {
+      "type": "node",
+      "id": 5925771446,
+      "lat": 35.6571332,
+      "lon": 139.696609
+    },
+    {
+      "type": "node",
+      "id": 6124400645,
+      "lat": 35.6587321,
+      "lon": 139.7001468
+    },
+    {
+      "type": "node",
+      "id": 6124432717,
+      "lat": 35.6595369,
+      "lon": 139.7010869
+    },
+    {
+      "type": "node",
+      "id": 6204563629,
+      "lat": 35.6573313,
+      "lon": 139.7000144
+    },
+    {
+      "type": "node",
+      "id": 6219685050,
+      "lat": 35.6593167,
+      "lon": 139.700309
+    },
+    {
+      "type": "node",
+      "id": 6219685051,
+      "lat": 35.6595354,
+      "lon": 139.7001546
+    },
+    {
+      "type": "node",
+      "id": 6219685052,
+      "lat": 35.659731,
+      "lon": 139.7006545
+    },
+    {
+      "type": "node",
+      "id": 6219685053,
+      "lat": 35.659464,
+      "lon": 139.7008086
+    },
+    {
+      "type": "node",
+      "id": 6219729308,
+      "lat": 35.6607528,
+      "lon": 139.6990702
+    },
+    {
+      "type": "node",
+      "id": 6219729338,
+      "lat": 35.6604938,
+      "lon": 139.6970002
+    },
+    {
+      "type": "node",
+      "id": 6219729361,
+      "lat": 35.6602203,
+      "lon": 139.6977591
+    },
+    {
+      "type": "node",
+      "id": 6219729379,
+      "lat": 35.6612572,
+      "lon": 139.698087
+    },
+    {
+      "type": "node",
+      "id": 6223284883,
+      "lat": 35.6594381,
+      "lon": 139.699785
+    },
+    {
+      "type": "node",
+      "id": 6223297201,
+      "lat": 35.6598816,
+      "lon": 139.7022064
+    },
+    {
+      "type": "node",
+      "id": 6223297202,
+      "lat": 35.6599036,
+      "lon": 139.7024961
+    },
+    {
+      "type": "node",
+      "id": 6223298621,
+      "lat": 35.6595427,
+      "lon": 139.7016578
+    },
+    {
+      "type": "node",
+      "id": 6223358621,
+      "lat": 35.6585891,
+      "lon": 139.7030694
+    },
+    {
+      "type": "node",
+      "id": 6369395618,
+      "lat": 35.6578809,
+      "lon": 139.7030758
+    },
+    {
+      "type": "node",
+      "id": 6939181505,
+      "lat": 35.6586078,
+      "lon": 139.7030828
+    },
+    {
+      "type": "node",
+      "id": 6948559012,
+      "lat": 35.65814,
+      "lon": 139.702595
+    },
+    {
+      "type": "node",
+      "id": 6948559014,
+      "lat": 35.6586655,
+      "lon": 139.7023224
+    },
+    {
+      "type": "node",
+      "id": 7021184995,
+      "lat": 35.6576834,
+      "lon": 139.7013055
+    },
+    {
+      "type": "node",
+      "id": 7092259872,
+      "lat": 35.6575279,
+      "lon": 139.7017983
+    },
+    {
+      "type": "node",
+      "id": 7092259873,
+      "lat": 35.6576735,
+      "lon": 139.7022006
+    },
+    {
+      "type": "node",
+      "id": 7092259874,
+      "lat": 35.657703,
+      "lon": 139.701651
+    },
+    {
+      "type": "node",
+      "id": 7092259875,
+      "lat": 35.6578523,
+      "lon": 139.7021167
+    },
+    {
+      "type": "node",
+      "id": 7202770282,
+      "lat": 35.6575182,
+      "lon": 139.7005199
+    },
+    {
+      "type": "node",
+      "id": 7234675682,
+      "lat": 35.658003,
+      "lon": 139.7027504
+    },
+    {
+      "type": "node",
+      "id": 7234675684,
+      "lat": 35.6563635,
+      "lon": 139.697779
+    },
+    {
+      "type": "node",
+      "id": 7234693402,
+      "lat": 35.6561386,
+      "lon": 139.6972309
+    },
+    {
+      "type": "node",
+      "id": 7234698631,
+      "lat": 35.6562422,
+      "lon": 139.6976493
+    },
+    {
+      "type": "node",
+      "id": 8007279043,
+      "lat": 35.6574723,
+      "lon": 139.7006746
+    },
+    {
+      "type": "node",
+      "id": 8007279051,
+      "lat": 35.6572768,
+      "lon": 139.7000444
+    },
+    {
+      "type": "node",
+      "id": 8007279053,
+      "lat": 35.6579635,
+      "lon": 139.7000967
+    },
+    {
+      "type": "node",
+      "id": 8007279067,
+      "lat": 35.657945,
+      "lon": 139.7004573
+    },
+    {
+      "type": "node",
+      "id": 8007394259,
+      "lat": 35.6583335,
+      "lon": 139.7001482
+    },
+    {
+      "type": "node",
+      "id": 8007394265,
+      "lat": 35.6578888,
+      "lon": 139.6998811
+    },
+    {
+      "type": "node",
+      "id": 8204053953,
+      "lat": 35.6580113,
+      "lon": 139.7022197
+    },
+    {
+      "type": "node",
+      "id": 9518528858,
+      "lat": 35.6592406,
+      "lon": 139.7002743
+    },
+    {
+      "type": "node",
+      "id": 9518528859,
+      "lat": 35.6592617,
+      "lon": 139.7003163
+    },
+    {
+      "type": "node",
+      "id": 9518528860,
+      "lat": 35.6592811,
+      "lon": 139.7003965
+    },
+    {
+      "type": "node",
+      "id": 9518528861,
+      "lat": 35.6592783,
+      "lon": 139.7004353
+    },
+    {
+      "type": "node",
+      "id": 9518528862,
+      "lat": 35.6592718,
+      "lon": 139.7004604
+    },
+    {
+      "type": "node",
+      "id": 9518528863,
+      "lat": 35.6592594,
+      "lon": 139.7004895
+    },
+    {
+      "type": "node",
+      "id": 9518528864,
+      "lat": 35.6592016,
+      "lon": 139.7005369
+    },
+    {
+      "type": "node",
+      "id": 9790683347,
+      "lat": 35.658985,
+      "lon": 139.7001274
+    },
+    {
+      "type": "node",
+      "id": 9835919374,
+      "lat": 35.6595168,
+      "lon": 139.7027572
+    },
+    {
+      "type": "node",
+      "id": 9855737960,
+      "lat": 35.6603137,
+      "lon": 139.7018064
+    },
+    {
+      "type": "node",
+      "id": 9963589074,
+      "lat": 35.657747,
+      "lon": 139.6981464
+    },
+    {
+      "type": "node",
+      "id": 10157692127,
+      "lat": 35.6591767,
+      "lon": 139.6982671
+    },
+    {
+      "type": "node",
+      "id": 10203429885,
+      "lat": 35.6603354,
+      "lon": 139.7015046
+    },
+    {
+      "type": "node",
+      "id": 10204485205,
+      "lat": 35.6577395,
+      "lon": 139.6983291
+    },
+    {
+      "type": "node",
+      "id": 10219242880,
+      "lat": 35.6579869,
+      "lon": 139.7029383
+    },
+    {
+      "type": "node",
+      "id": 10219242882,
+      "lat": 35.6578808,
+      "lon": 139.7025656
+    },
+    {
+      "type": "node",
+      "id": 10219242883,
+      "lat": 35.6577398,
+      "lon": 139.7021706
+    },
+    {
+      "type": "node",
+      "id": 10219242884,
+      "lat": 35.6575927,
+      "lon": 139.7017377
+    },
+    {
+      "type": "node",
+      "id": 10577113261,
+      "lat": 35.6595787,
+      "lon": 139.7003454
+    },
+    {
+      "type": "node",
+      "id": 10577113262,
+      "lat": 35.6595383,
+      "lon": 139.6995861
+    },
+    {
+      "type": "node",
+      "id": 10577113263,
+      "lat": 35.6594198,
+      "lon": 139.6991764
+    },
+    {
+      "type": "node",
+      "id": 10605619817,
+      "lat": 35.6595944,
+      "lon": 139.7027047
+    },
+    {
+      "type": "node",
+      "id": 10605619818,
+      "lat": 35.6595005,
+      "lon": 139.7020157
+    },
+    {
+      "type": "node",
+      "id": 10605619819,
+      "lat": 35.6593368,
+      "lon": 139.7024488
+    },
+    {
+      "type": "node",
+      "id": 10605619820,
+      "lat": 35.6597398,
+      "lon": 139.7024207
+    },
+    {
+      "type": "node",
+      "id": 10648289048,
+      "lat": 35.6591186,
+      "lon": 139.7002358
+    },
+    {
+      "type": "node",
+      "id": 10790545690,
+      "lat": 35.6588784,
+      "lon": 139.7000104
+    },
+    {
+      "type": "node",
+      "id": 11296210761,
+      "lat": 35.6603709,
+      "lon": 139.7016168
+    },
+    {
+      "type": "node",
+      "id": 11296210763,
+      "lat": 35.6606712,
+      "lon": 139.7018802
+    },
+    {
+      "type": "node",
+      "id": 11681901178,
+      "lat": 35.6602024,
+      "lon": 139.6978058
+    },
+    {
+      "type": "node",
+      "id": 11683584361,
+      "lat": 35.6579459,
+      "lon": 139.7027729
+    },
+    {
+      "type": "node",
+      "id": 12291256956,
+      "lat": 35.6576249,
+      "lon": 139.7009494
+    },
+    {
+      "type": "node",
+      "id": 12314025563,
+      "lat": 35.6576389,
+      "lon": 139.700578
+    },
+    {
+      "type": "node",
+      "id": 12314025564,
+      "lat": 35.6576648,
+      "lon": 139.7005557
+    },
+    {
+      "type": "node",
+      "id": 12314025565,
+      "lat": 35.6579372,
+      "lon": 139.7003767
+    },
+    {
+      "type": "node",
+      "id": 12314025572,
+      "lat": 35.6577439,
+      "lon": 139.7006749
+    },
+    {
+      "type": "node",
+      "id": 12314025573,
+      "lat": 35.6577995,
+      "lon": 139.7006525
+    },
+    {
+      "type": "node",
+      "id": 12314025581,
+      "lat": 35.6579081,
+      "lon": 139.7006041
+    },
+    {
+      "type": "node",
+      "id": 12314025582,
+      "lat": 35.6580068,
+      "lon": 139.7005823
+    },
+    {
+      "type": "node",
+      "id": 12314025583,
+      "lat": 35.6580383,
+      "lon": 139.7005882
+    },
+    {
+      "type": "node",
+      "id": 12314025584,
+      "lat": 35.6580558,
+      "lon": 139.7005925
+    },
+    {
+      "type": "node",
+      "id": 12314025585,
+      "lat": 35.6572781,
+      "lon": 139.7006126
+    },
+    {
+      "type": "node",
+      "id": 12314025586,
+      "lat": 35.657553,
+      "lon": 139.7014225
+    },
+    {
+      "type": "node",
+      "id": 12314025587,
+      "lat": 35.6580888,
+      "lon": 139.7004924
+    },
+    {
+      "type": "node",
+      "id": 12314025588,
+      "lat": 35.6580965,
+      "lon": 139.7004596
+    },
+    {
+      "type": "node",
+      "id": 12314025589,
+      "lat": 35.6581097,
+      "lon": 139.7004313
+    },
+    {
+      "type": "node",
+      "id": 12314025590,
+      "lat": 35.6580874,
+      "lon": 139.7005318
+    },
+    {
+      "type": "node",
+      "id": 12314025591,
+      "lat": 35.6580933,
+      "lon": 139.7005744
+    },
+    {
+      "type": "node",
+      "id": 12314025592,
+      "lat": 35.6582706,
+      "lon": 139.7006416
+    },
+    {
+      "type": "node",
+      "id": 12314025593,
+      "lat": 35.6589594,
+      "lon": 139.7001057
+    },
+    {
+      "type": "node",
+      "id": 12314025594,
+      "lat": 35.6589589,
+      "lon": 139.70012
+    },
+    {
+      "type": "node",
+      "id": 12314025595,
+      "lat": 35.6589822,
+      "lon": 139.7001599
+    },
+    {
+      "type": "node",
+      "id": 12314025596,
+      "lat": 35.6592779,
+      "lon": 139.7003633
+    },
+    {
+      "type": "node",
+      "id": 12314025597,
+      "lat": 35.6589392,
+      "lon": 139.7004137
+    },
+    {
+      "type": "node",
+      "id": 12314025598,
+      "lat": 35.6590392,
+      "lon": 139.7004683
+    },
+    {
+      "type": "node",
+      "id": 12314075702,
+      "lat": 35.6580265,
+      "lon": 139.7004161
+    },
+    {
+      "type": "node",
+      "id": 12314075711,
+      "lat": 35.6581311,
+      "lon": 139.700405
+    },
+    {
+      "type": "node",
+      "id": 12314075740,
+      "lat": 35.6589381,
+      "lon": 139.7001885
+    },
+    {
+      "type": "node",
+      "id": 12314075757,
+      "lat": 35.6582079,
+      "lon": 139.7006397
+    },
+    {
+      "type": "node",
+      "id": 12314075758,
+      "lat": 35.6582306,
+      "lon": 139.7002806
+    },
+    {
+      "type": "node",
+      "id": 12314075761,
+      "lat": 35.6584461,
+      "lon": 139.7001982
+    },
+    {
+      "type": "node",
+      "id": 12314075762,
+      "lat": 35.6585022,
+      "lon": 139.7001951
+    },
+    {
+      "type": "node",
+      "id": 12314075763,
+      "lat": 35.6585065,
+      "lon": 139.7001891
+    },
+    {
+      "type": "node",
+      "id": 12314075765,
+      "lat": 35.6573011,
+      "lon": 139.7014394
+    },
+    {
+      "type": "node",
+      "id": 12314075766,
+      "lat": 35.6572654,
+      "lon": 139.7014577
+    },
+    {
+      "type": "node",
+      "id": 12314075767,
+      "lat": 35.6573475,
+      "lon": 139.701458
+    },
+    {
+      "type": "node",
+      "id": 12314075768,
+      "lat": 35.6573704,
+      "lon": 139.7014552
+    },
+    {
+      "type": "node",
+      "id": 12314075769,
+      "lat": 35.6573935,
+      "lon": 139.7014462
+    },
+    {
+      "type": "node",
+      "id": 12314075770,
+      "lat": 35.6575731,
+      "lon": 139.7009756
+    },
+    {
+      "type": "node",
+      "id": 12314075774,
+      "lat": 35.6576507,
+      "lon": 139.7013921
+    },
+    {
+      "type": "node",
+      "id": 12314075775,
+      "lat": 35.6576309,
+      "lon": 139.701331
+    },
+    {
+      "type": "node",
+      "id": 12314075776,
+      "lat": 35.657981,
+      "lon": 139.7005837
+    },
+    {
+      "type": "node",
+      "id": 12314075787,
+      "lat": 35.6573638,
+      "lon": 139.7008828
+    },
+    {
+      "type": "node",
+      "id": 12314075788,
+      "lat": 35.6579308,
+      "lon": 139.702544
+    },
+    {
+      "type": "node",
+      "id": 12314075789,
+      "lat": 35.6579813,
+      "lon": 139.7027067
+    },
+    {
+      "type": "node",
+      "id": 12314075790,
+      "lat": 35.6580299,
+      "lon": 139.7028915
+    },
+    {
+      "type": "node",
+      "id": 12314075791,
+      "lat": 35.6576433,
+      "lon": 139.7017016
+    },
+    {
+      "type": "node",
+      "id": 12314075792,
+      "lat": 35.6577955,
+      "lon": 139.7021475
+    },
+    {
+      "type": "node",
+      "id": 12314075807,
+      "lat": 35.6581506,
+      "lon": 139.7027889
+    },
+    {
+      "type": "node",
+      "id": 12314075808,
+      "lat": 35.6581663,
+      "lon": 139.7026851
+    },
+    {
+      "type": "node",
+      "id": 12314075809,
+      "lat": 35.6581176,
+      "lon": 139.7028095
+    },
+    {
+      "type": "node",
+      "id": 12314075810,
+      "lat": 35.6580741,
+      "lon": 139.7028432
+    },
+    {
+      "type": "node",
+      "id": 12314075842,
+      "lat": 35.6581915,
+      "lon": 139.7028522
+    },
+    {
+      "type": "node",
+      "id": 12336491227,
+      "lat": 35.6593598,
+      "lon": 139.7017498
+    },
+    {
+      "type": "node",
+      "id": 12336491228,
+      "lat": 35.6593748,
+      "lon": 139.7017823
+    },
+    {
+      "type": "node",
+      "id": 12336491229,
+      "lat": 35.6593385,
+      "lon": 139.7018077
+    },
+    {
+      "type": "node",
+      "id": 12336491230,
+      "lat": 35.6593235,
+      "lon": 139.7017752
+    },
+    {
+      "type": "node",
+      "id": 12336491231,
+      "lat": 35.6593673,
+      "lon": 139.701766
+    },
+    {
+      "type": "node",
+      "id": 12336505513,
+      "lat": 35.6575762,
+      "lon": 139.702557
+    },
+    {
+      "type": "node",
+      "id": 12352271622,
+      "lat": 35.659531,
+      "lon": 139.7001842
+    },
+    {
+      "type": "node",
+      "id": 12352271623,
+      "lat": 35.6593305,
+      "lon": 139.7003176
+    },
+    {
+      "type": "node",
+      "id": 12352271624,
+      "lat": 35.659285,
+      "lon": 139.7005636
+    },
+    {
+      "type": "node",
+      "id": 12352271625,
+      "lat": 35.6597013,
+      "lon": 139.7006456
+    },
+    {
+      "type": "node",
+      "id": 12352271626,
+      "lat": 35.6594637,
+      "lon": 139.7008128
+    },
+    {
+      "type": "node",
+      "id": 12352271628,
+      "lat": 35.6597623,
+      "lon": 139.7002234
+    },
+    {
+      "type": "node",
+      "id": 12352271655,
+      "lat": 35.6597271,
+      "lon": 139.7002653
+    },
+    {
+      "type": "node",
+      "id": 12488189108,
+      "lat": 35.6579842,
+      "lon": 139.6988386
+    },
+    {
+      "type": "node",
+      "id": 12488189119,
+      "lat": 35.6584306,
+      "lon": 139.6986223
+    },
+    {
+      "type": "node",
+      "id": 12488189120,
+      "lat": 35.6580759,
+      "lon": 139.6988323
+    },
+    {
+      "type": "node",
+      "id": 12488189121,
+      "lat": 35.6581438,
+      "lon": 139.6989416
+    },
+    {
+      "type": "node",
+      "id": 12669263800,
+      "lat": 35.6597929,
+      "lon": 139.7024103
+    },
+    {
+      "type": "node",
+      "id": 12669269501,
+      "lat": 35.6597869,
+      "lon": 139.7023178
+    },
+    {
+      "type": "node",
+      "id": 12669269502,
+      "lat": 35.6598618,
+      "lon": 139.7023094
+    },
+    {
+      "type": "node",
+      "id": 12728466614,
+      "lat": 35.6590824,
+      "lon": 139.7028494
+    },
+    {
+      "type": "node",
+      "id": 12775758455,
+      "lat": 35.657885,
+      "lon": 139.7004907
+    },
+    {
+      "type": "node",
+      "id": 12782722048,
+      "lat": 35.659578,
+      "lon": 139.6993817
+    },
+    {
+      "type": "node",
+      "id": 12796417290,
+      "lat": 35.6600198,
+      "lon": 139.7007362
+    },
+    {
+      "type": "node",
+      "id": 12796498219,
+      "lat": 35.6584976,
+      "lon": 139.7004949
+    },
+    {
+      "type": "node",
+      "id": 12796498220,
+      "lat": 35.6585543,
+      "lon": 139.7004647
+    },
+    {
+      "type": "node",
+      "id": 12852125912,
+      "lat": 35.6580318,
+      "lon": 139.7022794
+    },
+    {
+      "type": "node",
+      "id": 12878246394,
+      "lat": 35.6592315,
+      "lon": 139.7005183
+    },
+    {
+      "type": "node",
+      "id": 12878246395,
+      "lat": 35.6592811,
+      "lon": 139.700291
+    },
+    {
+      "type": "node",
+      "id": 12880326219,
+      "lat": 35.6610712,
+      "lon": 139.6998671
+    },
+    {
+      "type": "node",
+      "id": 12880326231,
+      "lat": 35.6607608,
+      "lon": 139.6995906
+    },
+    {
+      "type": "node",
+      "id": 12880326235,
+      "lat": 35.6604846,
+      "lon": 139.7004147
+    },
+    {
+      "type": "node",
+      "id": 12880326236,
+      "lat": 35.6604996,
+      "lon": 139.7003229
+    },
+    {
+      "type": "node",
+      "id": 12995472524,
+      "lat": 35.6586923,
+      "lon": 139.7002225
+    },
+    {
+      "type": "node",
+      "id": 13038529014,
+      "lat": 35.6595377,
+      "lon": 139.7004418
+    },
+    {
+      "type": "node",
+      "id": 13038529017,
+      "lat": 35.6602234,
+      "lon": 139.6991122
+    },
+    {
+      "type": "node",
+      "id": 13038529019,
+      "lat": 35.6604596,
+      "lon": 139.6986145
+    },
+    {
+      "type": "node",
+      "id": 13038529020,
+      "lat": 35.6604525,
+      "lon": 139.6986104
+    },
+    {
+      "type": "node",
+      "id": 13038536248,
+      "lat": 35.6600642,
+      "lon": 139.6981648
+    },
+    {
+      "type": "node",
+      "id": 13038536249,
+      "lat": 35.6599539,
+      "lon": 139.6984527
+    },
+    {
+      "type": "node",
+      "id": 13038536250,
+      "lat": 35.6604734,
+      "lon": 139.6970582
+    },
+    {
+      "type": "node",
+      "id": 13414808359,
+      "lat": 35.6601138,
+      "lon": 139.6983962
+    },
+    {
+      "type": "node",
+      "id": 13414808360,
+      "lat": 35.6606232,
+      "lon": 139.6997234
+    },
+    {
+      "type": "node",
+      "id": 13420389792,
+      "lat": 35.6582912,
+      "lon": 139.7006372
+    },
+    {
+      "type": "node",
+      "id": 57529593,
+      "lat": 35.6581708,
+      "lon": 139.7038495
+    },
+    {
+      "type": "node",
+      "id": 252676409,
+      "lat": 35.659672,
+      "lon": 139.7031871
+    },
+    {
+      "type": "node",
+      "id": 253890308,
+      "lat": 35.657964,
+      "lon": 139.703173
+    },
+    {
+      "type": "node",
+      "id": 263987057,
+      "lat": 35.6580864,
+      "lon": 139.7031181
+    },
+    {
+      "type": "node",
+      "id": 264008185,
+      "lat": 35.6580734,
+      "lon": 139.703578
+    },
+    {
+      "type": "node",
+      "id": 264008503,
+      "lat": 35.6580189,
+      "lon": 139.7031567
+    },
+    {
+      "type": "node",
+      "id": 517547743,
+      "lat": 35.6612256,
+      "lon": 139.7043701
+    },
+    {
+      "type": "node",
+      "id": 517547751,
+      "lat": 35.6610178,
+      "lon": 139.7037321
+    },
+    {
+      "type": "node",
+      "id": 517547756,
+      "lat": 35.6610362,
+      "lon": 139.7039675
+    },
+    {
+      "type": "node",
+      "id": 517547785,
+      "lat": 35.6605922,
+      "lon": 139.7038751
+    },
+    {
+      "type": "node",
+      "id": 517547865,
+      "lat": 35.6599638,
+      "lon": 139.7048765
+    },
+    {
+      "type": "node",
+      "id": 1116808029,
+      "lat": 35.6611025,
+      "lon": 139.7041675
+    },
+    {
+      "type": "node",
+      "id": 1377643882,
+      "lat": 35.6577968,
+      "lon": 139.703221
+    },
+    {
+      "type": "node",
+      "id": 1519733425,
+      "lat": 35.6597879,
+      "lon": 139.7038893
+    },
+    {
+      "type": "node",
+      "id": 1519733465,
+      "lat": 35.6598991,
+      "lon": 139.7045229
+    },
+    {
+      "type": "node",
+      "id": 1519734701,
+      "lat": 35.6610206,
+      "lon": 139.7038292
+    },
+    {
+      "type": "node",
+      "id": 1519734705,
+      "lat": 35.6610569,
+      "lon": 139.7040696
+    },
+    {
+      "type": "node",
+      "id": 1519734750,
+      "lat": 35.6611855,
+      "lon": 139.7042959
+    },
+    {
+      "type": "node",
+      "id": 1685220982,
+      "lat": 35.6581389,
+      "lon": 139.7031477
+    },
+    {
+      "type": "node",
+      "id": 2138385685,
+      "lat": 35.6582587,
+      "lon": 139.7070633
+    },
+    {
+      "type": "node",
+      "id": 2138385692,
+      "lat": 35.6583359,
+      "lon": 139.7070622
+    },
+    {
+      "type": "node",
+      "id": 2171167535,
+      "lat": 35.6598497,
+      "lon": 139.7042536
+    },
+    {
+      "type": "node",
+      "id": 2397979255,
+      "lat": 35.6600745,
+      "lon": 139.7053726
+    },
+    {
+      "type": "node",
+      "id": 2674504678,
+      "lat": 35.6582348,
+      "lon": 139.7047658
+    },
+    {
+      "type": "node",
+      "id": 2674504684,
+      "lat": 35.6581987,
+      "lon": 139.7041745
+    },
+    {
+      "type": "node",
+      "id": 2674504689,
+      "lat": 35.6581148,
+      "lon": 139.7033126
+    },
+    {
+      "type": "node",
+      "id": 2674504690,
+      "lat": 35.6581531,
+      "lon": 139.7046002
+    },
+    {
+      "type": "node",
+      "id": 2674504694,
+      "lat": 35.6581407,
+      "lon": 139.7035574
+    },
+    {
+      "type": "node",
+      "id": 2674504696,
+      "lat": 35.6582203,
+      "lon": 139.7044934
+    },
+    {
+      "type": "node",
+      "id": 3854029357,
+      "lat": 35.6582534,
+      "lon": 139.7050949
+    },
+    {
+      "type": "node",
+      "id": 5220802947,
+      "lat": 35.6578587,
+      "lon": 139.7031464
+    },
+    {
+      "type": "node",
+      "id": 6369395610,
+      "lat": 35.6582486,
+      "lon": 139.7032466
+    },
+    {
+      "type": "node",
+      "id": 7234675680,
+      "lat": 35.6580446,
+      "lon": 139.7033237
+    },
+    {
+      "type": "node",
+      "id": 7234675681,
+      "lat": 35.6581009,
+      "lon": 139.7038521
+    },
+    {
+      "type": "node",
+      "id": 7235032470,
+      "lat": 35.6581287,
+      "lon": 139.7041718
+    },
+    {
+      "type": "node",
+      "id": 12314075812,
+      "lat": 35.6582609,
+      "lon": 139.703327
+    },
+    {
+      "type": "node",
+      "id": 158030029,
+      "lat": 35.6618918,
+      "lon": 139.7021916
+    },
+    {
+      "type": "node",
+      "id": 250652233,
+      "lat": 35.6621911,
+      "lon": 139.6973246
+    },
+    {
+      "type": "node",
+      "id": 252674320,
+      "lat": 35.6622099,
+      "lon": 139.7008289
+    },
+    {
+      "type": "node",
+      "id": 353660173,
+      "lat": 35.6616571,
+      "lon": 139.6977992
+    },
+    {
+      "type": "node",
+      "id": 353660174,
+      "lat": 35.6618828,
+      "lon": 139.6976405
+    },
+    {
+      "type": "node",
+      "id": 353661237,
+      "lat": 35.6617607,
+      "lon": 139.6977258
+    },
+    {
+      "type": "node",
+      "id": 508448391,
+      "lat": 35.6622959,
+      "lon": 139.6971076
+    },
+    {
+      "type": "node",
+      "id": 597689460,
+      "lat": 35.662017,
+      "lon": 139.6994679
+    },
+    {
+      "type": "node",
+      "id": 597715183,
+      "lat": 35.6620392,
+      "lon": 139.6975118
+    },
+    {
+      "type": "node",
+      "id": 726932379,
+      "lat": 35.6619037,
+      "lon": 139.6995859
+    },
+    {
+      "type": "node",
+      "id": 1014529802,
+      "lat": 35.6614288,
+      "lon": 139.700212
+    },
+    {
+      "type": "node",
+      "id": 1014530043,
+      "lat": 35.6624293,
+      "lon": 139.6968431
+    },
+    {
+      "type": "node",
+      "id": 1517481739,
+      "lat": 35.6623757,
+      "lon": 139.6969424
+    },
+    {
+      "type": "node",
+      "id": 1685221014,
+      "lat": 35.6618642,
+      "lon": 139.7022926
+    },
+    {
+      "type": "node",
+      "id": 2140290583,
+      "lat": 35.6622663,
+      "lon": 139.6993182
+    },
+    {
+      "type": "node",
+      "id": 2393500066,
+      "lat": 35.6617451,
+      "lon": 139.7021986
+    },
+    {
+      "type": "node",
+      "id": 2393500071,
+      "lat": 35.6617043,
+      "lon": 139.7023042
+    },
+    {
+      "type": "node",
+      "id": 2865062739,
+      "lat": 35.6616461,
+      "lon": 139.6999151
+    },
+    {
+      "type": "node",
+      "id": 2865062740,
+      "lat": 35.6619584,
+      "lon": 139.6995244
+    },
+    {
+      "type": "node",
+      "id": 2865062741,
+      "lat": 35.6620726,
+      "lon": 139.6994244
+    },
+    {
+      "type": "node",
+      "id": 2865062743,
+      "lat": 35.6621303,
+      "lon": 139.6993849
+    },
+    {
+      "type": "node",
+      "id": 2865062744,
+      "lat": 35.6621917,
+      "lon": 139.6993508
+    },
+    {
+      "type": "node",
+      "id": 2866947417,
+      "lat": 35.6624823,
+      "lon": 139.6967787
+    },
+    {
+      "type": "node",
+      "id": 6219729387,
+      "lat": 35.6617125,
+      "lon": 139.6977599
+    },
+    {
+      "type": "node",
+      "id": 6578301598,
+      "lat": 35.6620837,
+      "lon": 139.7008245
+    },
+    {
+      "type": "node",
+      "id": 11903948344,
+      "lat": 35.6617598,
+      "lon": 139.6997697
+    },
+    {
+      "type": "node",
+      "id": 11932522322,
+      "lat": 35.6621303,
+      "lon": 139.6973995
+    },
+    {
+      "type": "node",
+      "id": 11932522324,
+      "lat": 35.6622127,
+      "lon": 139.6972799
+    },
+    {
+      "type": "node",
+      "id": 12880326224,
+      "lat": 35.6614726,
+      "lon": 139.7001522
+    },
+    {
+      "type": "node",
+      "id": 12880326229,
+      "lat": 35.6615277,
+      "lon": 139.7000769
+    }
+  ]
+}

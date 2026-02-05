@@ -1,0 +1,31 @@
+# PLATEAU CityGML data files (large XML files)
+plateau_data/**/*.gml
+
+# Large zip files (too big for GitHub)
+plateau_data.zip
+plateau_data/shibuya_citygml.zip
+plateau_data/shibuya_related.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+*.log
