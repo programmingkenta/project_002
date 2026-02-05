@@ -1,53 +1,19 @@
-# Python Learning Journey: From Hello World to 3D Geospatial Visualization
+# Shibuya 3D Geospatial Visualization
 
-A portfolio repository documenting progression from Python fundamentals to advanced geospatial data processing and 3D visualization. The culminating project is a photorealistic 3D model of Shibuya Crossing using government open data (PLATEAU) and OpenStreetMap.
+A photorealistic 3D visualization of Shibuya Crossing using PLATEAU LOD2 CityGML data and OpenStreetMap, demonstrating advanced geospatial data engineering and real-time 3D rendering techniques.
 
-## Repository Overview
+## Project Overview
 
-This repository contains:
-1. **Learning Tutorials** - Foundational Python concepts with hands-on exercises
-2. **Progressive Projects** - City builder exercises building up to real-world mapping
-3. **Shibuya 3D Visualization** - Professional geospatial data processing and WebGL rendering
+This project processes high-resolution Japanese government geospatial data (PLATEAU) to create an interactive WebGL visualization of Tokyo's busiest intersection. The implementation solves real-world data engineering challenges including XLink reference resolution, coordinate system transformations, and memory-efficient geometry processing.
 
-## Learning Path
-
-### Phase 1: Python Fundamentals
-Tutorial documents covering core concepts:
-- [What is Programming](2026-01-30-what-is-programming.md) - Introduction to programming concepts
-- [VS Code Basics](2026-01-30-vs-code-basics.md) - Development environment setup
-- [Your First Python Program](2026-01-30-your-first-python-program.md) - Hello World and basic syntax
-- [Variables](2026-01-30-variables.md) - Data storage and manipulation
-- [User Input](2026-01-30-user-input.md) - Interactive programs
-- [If Statements](2026-01-30-if-statements.md) & [Elif](2026-01-30-elif.md) - Conditional logic
-- [Loops](2026-01-30-loops.md) - Iteration and repetition
-- [Lists](2026-01-30-lists.md) - Data structures
-
-### Phase 2: Hands-On Projects
-Progressive exercises applying Python concepts:
-- `001_hello.py` - First program
-- `002_city_planner.py` through `009_isometric_city.py` - Building complexity through city simulation exercises
-- Concepts: Data structures, loops, conditional logic, coordinate systems
-
-### Phase 3: Real-World Geospatial Data
-Multiple iterations solving increasing complexity:
-
-**Version 1** (`build_shibuya_map_001.py`) - Learning XML parsing basics
-**Version 2** (`build_shibuya_map_002.py`) - OSM data with isometric projection
-**Version 3** (`build_shibuya_map_003.py`) - Introduction to PLATEAU data
-**Version 4** (`build_shibuya_map_004.py`) - Production-ready LOD2 visualization
-
-## Final Project: Shibuya 3D Map Visualization
-
-A photorealistic 3D visualization of Shibuya Crossing demonstrating professional-level data engineering and visualization techniques.
-
-### Features
+## Features
 
 - **High-detail building geometry**: PLATEAU LOD2 (Level of Detail 2) with detailed roof structures
-- **Road network**: OpenStreetMap data via Overpass API
-- **Interactive 3D view**: Three.js WebGL with orbit controls
-- **Realistic rendering**: PBR materials with proper lighting and shadows
-- **Spatial filtering**: 151 buildings within 200m radius of Shibuya Crossing
-- **XLink resolution**: O(1) polygon lookup using pre-built cache
+- **Road network integration**: OpenStreetMap data via Overpass API
+- **Interactive 3D rendering**: Three.js WebGL with orbit controls
+- **PBR materials**: Physically-based rendering with proper lighting and shadows
+- **Optimized spatial filtering**: 151 buildings within 200m radius using distance calculations
+- **Efficient XLink resolution**: O(1) polygon lookup with pre-built cache for large CityGML files
 
 ### Live Demo
 
@@ -112,12 +78,14 @@ python fetch_osm_roads.py
 # Output: plateau_data/osm_roads.json
 ```
 
-### Earlier Iterations (Learning Process)
+### Development Iterations
 
-- **`build_shibuya_map_001.py`** - Initial XML parsing exploration
-- **`build_shibuya_map_002.py`** - OSM data with isometric rendering
-- **`build_shibuya_map_003.py`** - First PLATEAU integration attempt
-- **`build_shibuya_map_004.py`** - Final version with XLink resolution and road integration
+The project evolved through multiple iterations, each addressing specific technical challenges:
+
+- **`build_shibuya_map_001.py`** - Initial CityGML XML parsing
+- **`build_shibuya_map_002.py`** - OSM data integration with isometric projection
+- **`build_shibuya_map_003.py`** - PLATEAU LOD1 data processing
+- **`build_shibuya_map_004.py`** - Production version with LOD2, XLink resolution, and road network
 
 ## Technical Details
 
@@ -170,16 +138,6 @@ PLATEAU LOD2 data uses XLink references (`xlink:href="#poly-xxx"`) instead of in
 - Error handling and debugging
 - Version control with Git
 
-## What I Learned
-
-This project taught me that real-world data engineering is fundamentally about **understanding data formats**. The breakthrough moment was discovering that PLATEAU LOD2 uses XLink references - a detail not obvious from sample code or documentation. This required:
-
-1. **Deep investigation** - Reading XML directly, testing ElementTree behavior, understanding why searches failed
-2. **Performance thinking** - Recognizing that O(n²) lookups would be too slow, pre-building a cache
-3. **Incremental debugging** - Adding detailed logging to understand what data actually looks like vs. what I expected
-
-The progression from "hello world" to parsing government geospatial data demonstrates that complex projects are just **many simple steps combined thoughtfully**.
-
 ## Requirements
 
 - Python 3.x
@@ -202,4 +160,4 @@ This project uses open data:
 
 ---
 
-**From basic Python syntax to parsing government geospatial data in 4 iterations.** This repository documents the complete learning journey.
+**High-fidelity 3D visualization from government geospatial data.** This project demonstrates production-ready data engineering techniques for processing CityGML LOD2 data and rendering complex urban environments in real-time.
